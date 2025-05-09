@@ -1,0 +1,329 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\4-legged chair images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://image.architonic.com/pro2-3/20048028/cay-four-legged-chair-cy-0470-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://image.architonic.com/img_pro2-4/113/3396/Yanos-011-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://s3.amazonaws.com/wd-public/images/b61775-bk-belcino-4-leg-chair.jpg
+[!] Issue getting: https://s3.amazonaws.com/wd-public/images/b61775-bk-belcino-4-leg-chair.jpg
+[!] Error:: HTTP Error 301: Moved Permanently
+[%] Downloading Image #3 from http://www.theofficefurniturestore.co.uk/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/k/e/keyn_chair_four_leg_chrome_legs_hd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://image.architonic.com/img_pro2-4/113/3395/Yanos-010-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from http://boss-chair.com/wp-content/uploads/2022/08/B6889R-BK-1-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://image.architonic.com/img_pro2-4/116/7650/jack-front-002-s-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://i.pinimg.com/originals/e2/ff/08/e2ff08a18c6880561c38e20a24554f92.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://image.architonic.com/img_pro2-4/141/1681/g125-netz-vierbein-front-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.apresfurniture.co.uk/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/c/e/ceno08.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Yellow.jpg
+[!] Issue getting: https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Yellow.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #10 from https://www.kaysbarstoolworld.com/wp-content/uploads/2020/04/Solid-Wood-Frame.png
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://image.architonic.com/pro2-3/20208244/fiore-outdoor-fi-7610-vl-45-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.office-furniture-direct.co.uk/Cache/Images/1920-1040-fit-0-p88-llbusub-2256022124-1500x1500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Plum-1-722x1024.jpg
+[!] Issue getting: https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Plum-1-722x1024.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #13 from https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Graphite.jpg
+[!] Issue getting: https://www.online-ergonomics.co.uk/wp-content/uploads/2020/08/HWCLUB-4-Legged-Chair-Graphite.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #13 from https://cdn.shopify.com/s/files/1/0071/4299/8101/products/acti-4leg-timber-orange-A4T-N02_2048x2048.jpg?v=1568778938
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.littlelotsonline.com/wp-content/uploads/2023/02/Classic-DB114-4-Legged-Chair-170-KG-Heavy-Duty-Wooden-Base.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://zcmboffice.com/wp-content/uploads/2020/06/DB056B.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.buyworkchairs.com/assets/images/default/5950C-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://technochair.co.za/wp-content/uploads/2022/10/raggioW-4leg-visitor-680x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.mobilia.com.au/media/products/Inclass/Nim/Nim-4-Leg-Chair-Upholstered/Sliders/_productImage/Mobilia-Inclass-Nim-4-Leg-Chair-Upholstered-Slider-4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://www.office-furniture-direct.co.uk/Cache/Images/1920-1040-fit-0-p88-llwuspb-2636022101-1500x1500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://image.architonic.com/img_pro2-4/116/7654/jack-side-004-s-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.thecontractchair.co.uk/media/__sized__/store/product/grafton-4-legged-chair/G1-thumbnail-600x600-100.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.buyworkchairs.com/assets/images/default/5940C-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.eliteofficefurnituredirect.co.uk/Cache/Images/1920-1040-fit-0-p89-llbpsmb-5256022146-1500x1500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.mobilia.com.au/media/products/Inclass/Varya/Thumbs/_productSquare/varya-4-leg-stackable-plastc-etched.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://sangwineducationalfurniture.co.uk/wp-content/uploads/2020/06/CH099-768x768.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://nakashimawoodworkers.com/wp-content/uploads/2017/07/Four-Leged-Chair-1-853x1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.mobilia.com.au/media/products/Inclass/Nim/Thumbs/_productSquare/Nim-4-leg-chair-upholstered-shell-etched.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://image.architonic.com/pro2-2/20208245/fiore-outdoor-fi-7610-husse-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://limelightworkspace.co.uk/wp-content/uploads/2021/01/6929-4-Legged-Chair-Jade-Front-Shot-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://image.architonic.com/img_pro2-4/122/4859/ecco-dp-ec07500-081-021-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://image.architonic.com/img_pro2-4/122/5163/02-sento-dp-se14020-065-010-b.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #32 from https://image.architonic.com/pro2-3/20208245/fiore-outdoor-fi-7610-husse-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #33 from https://image.architonic.com/pro2-2/20048028/cay-four-legged-chair-cy-0470-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #34 from https://www.mobilia.com.au/media/products/Inclass/Nim/Nim-4-Leg-Chair-Unupholstered/Sliders/_productImage/Mobilia-Inclass-Nim-4-Leg-Chair-Unupholstered-Slider-2.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #35 from https://www.eliteofficefurnituredirect.co.uk/Cache/Images/dftyhdftyh-1500x1500.png
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #36 from https://worksmartofs.com/wp-content/uploads/2020/04/84540-Side-1186x1536.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 7
+
+[%] Indexed 35 Images on Page 7.
+
+===============================================
+
+[%] Downloading Image #37 from https://www.mobilia.com.au/media/products/_productSquare/Mobilia_cassina_246248-armchair_thumb.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 8
+
+[%] Indexed 35 Images on Page 8.
+
+===============================================
+
+[%] Downloading Image #38 from https://www.office-furniture-direct.co.uk/Cache/Images/2000-1500-fit-752d2271765d88803293994e5a788d84-1-1500x1500.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 9
+
+[%] Indexed 35 Images on Page 9.
+
+===============================================
+
+[%] Downloading Image #39 from https://www.mobilia.com.au/media/products/Inclass/Unnia/Unnia-Tapiz-4-Legged-Chair-with-Metal-Arms/Sliders/_productImage/Mobilia-Inclass-Unnia-Tapiz-4-Legged-Chair-Metal-Arms-Sliders-2.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 10
+
+[%] Indexed 35 Images on Page 10.
+
+===============================================
+
+[%] Downloading Image #40 from https://www.mikeodwyerofficefurniture.co.uk/3340-large_default/radstock-four-leg-conference-chair-with-tubular-frame-arms.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 11
+
+[%] Indexed 35 Images on Page 11.
+
+===============================================
+
+[%] Downloading Image #41 from https://furnitureforcolleges.co.uk/wp-content/uploads/2018/09/HE14040.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 12
+
+[%] Indexed 35 Images on Page 12.
+
+===============================================
+
+[%] Downloading Image #42 from https://worksmartofs.com/wp-content/uploads/2020/04/84540.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 13
+
+[%] Indexed 35 Images on Page 13.
+
+===============================================
+
+[%] Downloading Image #43 from https://image.architonic.com/img_pro2-4/141/1681/g125-netz-vierbein-detail-001-b.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 14
+
+[%] Indexed 35 Images on Page 14.
+
+===============================================
+
+[%] Downloading Image #44 from https://www.shocfurniture.co.uk/media/catalog/product/cache/1/image/400x533/9df78eab33525d08d6e5fb8d27136e95/m/u/muloaup.jpg
+[!] Issue getting: https://www.shocfurniture.co.uk/media/catalog/product/cache/1/image/400x533/9df78eab33525d08d6e5fb8d27136e95/m/u/muloaup.jpg
+[!] Error:: HTTP Error 404: Not Found
+
+
+[!!]Indexing page: 15
+
+[%] Indexed 35 Images on Page 15.
+
+===============================================
+
+[%] Downloading Image #44 from https://www.idfdesign.com/images/office-chairs-lift/nesting-delfinet-073-r-adjusting-chairs-3.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 16
+
+[%] Indexed 35 Images on Page 16.
+
+===============================================
+
+[%] Downloading Image #45 from https://www.mobilia.com.au/media/products/Inclass/Arc/Thumbs/_productSquare/arc-4-leg-std-etched.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 17
+
+[%] Indexed 35 Images on Page 17.
+
+===============================================
+
+[%] Downloading Image #46 from https://www.accentenvironments.com/images/product/chair-an18-blk01-chrm_r[1200x900].png
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 18
+
+[%] Indexed 35 Images on Page 18.
+
+===============================================
+
+[%] Downloading Image #47 from https://image.architonic.com/pro2-3/20048029/cay-four-legged-chair-cy-0470-ab05kgs-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 19
+
+[%] Indexed 35 Images on Page 19.
+
+===============================================
+
+[%] Downloading Image #48 from https://image.architonic.com/img_pro1-6/113/3395/Yanos-010-sq.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 20
+
+[%] Indexed 35 Images on Page 20.
+
+===============================================
+
+[%] Downloading Image #49 from https://www.mobilia.com.au/media/products/Inclass/Nim/Nim-4-Leg-Chair-Upholstered/Sliders/_productImage/Mobilia-Inclass-Nim-4-Leg-Chair-Upholstered-Hero.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.christiani-international.com/out/pictures/generated/product/1/665_665_75/97451-four-legged-chair-multiplex.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

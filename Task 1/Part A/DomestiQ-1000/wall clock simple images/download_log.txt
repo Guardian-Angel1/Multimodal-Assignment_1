@@ -1,0 +1,186 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\wall clock simple images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://decorwala.pk/wp-content/uploads/2022/10/simple-silent-circle-clock-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://ae01.alicdn.com/kf/HTB1buEEopuWBuNjSszbq6AS7FXan/Homingdeco-12-Inches-Large-Simple-Wall-Clock-Wood-Brief-Wooden-Bedroom-Livingroom-Wall-Clocks-Home-Decor.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1buEEopuWBuNjSszbq6AS7FXan/Homingdeco-12-Inches-Large-Simple-Wall-Clock-Wood-Brief-Wooden-Bedroom-Livingroom-Wall-Clocks-Home-Decor.jpg
+[!] Error:: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[%] Downloading Image #2 from https://i.etsystatic.com/8094028/r/il/6b2799/824644510/il_fullxfull.824644510_k1ex.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://orpatgroup.com/wp-content/uploads/2020/12/2-Wall-Clock-–-Simple-Clock-–-957-–-White.jpg
+[!] Issue getting: https://orpatgroup.com/wp-content/uploads/2020/12/2-Wall-Clock-–-Simple-Clock-–-957-–-White.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2013' in position 45: ordinal not in range(128)
+[%] Downloading Image #3 from https://orpatgroup.com/wp-content/uploads/2022/08/8767-FRONT-GREY-_MGL0618-QQQ-10-08-2022-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://images-na.ssl-images-amazon.com/images/I/6147mefE45L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://c8.alamy.com/comp/MR4CA0/modern-minimalist-wall-clock-simple-watch-design-illustration-MR4CA0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://ae01.alicdn.com/kf/HTB1hx6wlP3z9KJjy0Fmq6xiwXXaL/Digital-Wall-Clock-Simple-Modern-Design-Nordic-Brief-Clocks-for-Bedroom-3D-Sticker-Wooden-Wall-Watch.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1hx6wlP3z9KJjy0Fmq6xiwXXaL/Digital-Wall-Clock-Simple-Modern-Design-Nordic-Brief-Clocks-for-Bedroom-3D-Sticker-Wooden-Wall-Watch.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #6 from https://i.etsystatic.com/23400842/r/il/cb6ffe/2818403620/il_fullxfull.2818403620_tvxz.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://ae01.alicdn.com/kf/HTB1dI.bbIIrBKNjSZK9q6ygoVXaL/Wood-Wall-Clock-Simple-Modern-Design-Bamboo-Clocks-Bedroom-Pastoral-Style-Wooden-Wall-Watch-Home-Decor.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1dI.bbIIrBKNjSZK9q6ygoVXaL/Wood-Wall-Clock-Simple-Modern-Design-Bamboo-Clocks-Bedroom-Pastoral-Style-Wooden-Wall-Watch-Home-Decor.jpg
+[!] Error:: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[%] Downloading Image #7 from https://designyourown.pk/wp-content/uploads/2021/08/2.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://i.pinimg.com/originals/42/47/f4/4247f45ab6e5a7dfc76ecddfefc91e95.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://ae01.alicdn.com/kf/HTB1Ou1sbbrpK1RjSZTEq6AWAVXaW/Wall-Clock-Simple-Modern-Design-Wooden-Clocks-for-Bedroom-Wood-Wall-Watch-Home-Decor-Silent.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1Ou1sbbrpK1RjSZTEq6AWAVXaW/Wall-Clock-Simple-Modern-Design-Wooden-Clocks-for-Bedroom-Wood-Wall-Watch-Home-Decor-Silent.jpg
+[!] Error:: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[%] Downloading Image #9 from https://ae01.alicdn.com/kf/HTB115FHXRfM8KJjSZFOq6xr5XXaK/Simple-Needle-Wall-Clocks-PVC-Mute-Circular-Wall-Clock-Modern-Metal-Living-Room-Wall-Clock-Home.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB115FHXRfM8KJjSZFOq6xr5XXaK/Simple-Needle-Wall-Clocks-PVC-Mute-Circular-Wall-Clock-Modern-Metal-Living-Room-Wall-Clock-Home.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #9 from https://www.architectureartdesigns.com/wp-content/uploads/2022/06/15-Elegant-Minimalist-Wall-Clock-Designs-That-Will-Steal-Your-Gaze-6-1024x977.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.architectureartdesigns.com/wp-content/uploads/2022/06/15-Elegant-Minimalist-Wall-Clock-Designs-That-Will-Steal-Your-Gaze-5-1536x1510.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://cdn.shopify.com/s/files/1/0410/5863/1835/products/Clock-Black-6.jpg?v=1624578604
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://cdn.notonthehighstreet.com/fs/3d/17/6c06-cbc7-4941-acdf-8b1ad855f79c/original_minimalist-designer-concrete-wall-clock.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://housewifery.com.ph/wp-content/uploads/2023/02/clock-14-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.architectureartdesigns.com/wp-content/uploads/2022/06/15-Elegant-Minimalist-Wall-Clock-Designs-That-Will-Steal-Your-Gaze-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://i.pinimg.com/originals/47/b6/de/47b6de900f15bc138c81a482a54b39d7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.fancypantshomes.com/wp-content/uploads/2019/06/hroome-minimalist-black-wall-clock-758x758.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://www.architectureartdesigns.com/wp-content/uploads/2022/06/15-Elegant-Minimalist-Wall-Clock-Designs-That-Will-Steal-Your-Gaze-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://images-na.ssl-images-amazon.com/images/I/714hjThSJIL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://www.architectureartdesigns.com/wp-content/uploads/2022/06/15-Elegant-Minimalist-Wall-Clock-Designs-That-Will-Steal-Your-Gaze-9-1536x1536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.fancypantshomes.com/wp-content/uploads/2019/06/ajolihome-minimalist-wood-wall-clock.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://i.etsystatic.com/32698976/r/il/c78c82/3446527410/il_794xN.3446527410_41qh.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.designnature.com/wp-content/uploads/2018/09/product-06.jpg
+[!] Issue getting: https://www.designnature.com/wp-content/uploads/2018/09/product-06.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #22 from https://www.fancypantshomes.com/wp-content/uploads/2019/06/minimalist-metal-wall-clock-758x758.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://i.etsystatic.com/9140159/r/il/7bd26e/4706243946/il_1080xN.4706243946_mjvc.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://miro.medium.com/v2/resize:fit:605/1*1Jgi3Y-GB6Vx3Swi9lsuUA.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.gessato.com/wp-content/uploads/2023/03/minimalist-wall-clock-designs-20-1360x850.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://cdn.shopify.com/s/files/1/0061/4639/2135/files/clock_23_480x480.jpg?v=1621099285
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.gessato.com/wp-content/uploads/2023/03/minimalist-wall-clock-designs-6-1536x960.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.etsystatic.com/12778271/r/il/0f3e4a/3146062325/il_fullxfull.3146062325_f10a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.allbarnwood.com/wp-content/uploads/2018/05/18inch.jpg
+[!] Issue getting: https://www.allbarnwood.com/wp-content/uploads/2018/05/18inch.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #29 from https://img0.etsystatic.com/026/1/8683383/il_fullxfull.515464954_nd0b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://secure.img1.wfcdn.com/lf/maxsquare/hash/5084/30126625/2/London-Clock-Company-Traditional-Oak-Wood-Wall-Clock-22332.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.homesdirect365.co.uk/images/large-round-wooden-wall-clock-p79065-137136_zoom.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i.etsystatic.com/28353760/r/il/b223a8/3115935351/il_1588xN.3115935351_eof9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from http://images.esellerpro.com/2797/I/245/00/FSSW301.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://i.pinimg.com/originals/20/82/75/208275643c1b155c56f15f9bc2a4e0ca.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://static.wixstatic.com/media/54cb12_81d32634d97d4d2e85e6024d9baa1958~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_3024,h_4032,al_c,q_85/54cb12_81d32634d97d4d2e85e6024d9baa1958~mv2_d_3024_4032_s_4_2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i5.walmartimages.com/asr/33c96188-0fa7-4707-9572-512cdddcc794.8821b2595a95e28b019cbbf9a8c31f11.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://img1.etsystatic.com/173/0/7646619/il_fullxfull.1240062625_88tg.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://woodsala.com/cdn/shop/articles/SGHWS01202_6.jpg?v=1627720515&amp;width=4000
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.pinimg.com/originals/2c/8d/ac/2c8dac0a060096adb8a1b61916fe7c72.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.pinimg.com/originals/d0/6e/b9/d06eb92613304a3c23c13b450386c804.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i.etsystatic.com/11037319/r/il/396577/2305954743/il_fullxfull.2305954743_d4p9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://hollygroveshop.co.uk/wp-content/uploads/2020/02/Large-Wooden-Wall-Clock.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://cdn-s3.touchofmodern.com/products/001/717/640/d421145426981efbf9d9bd56f1ae16a3_large.jpg?1576009044
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://i.pinimg.com/originals/da/bd/93/dabd935414c6f5ae9f9138104126fd23.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://i.pinimg.com/originals/ab/d3/d5/abd3d5fdd4735c9870fdefb11b422445.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i5.walmartimages.com/asr/9aea4c85-5a06-48f8-bc24-52b1d2f0281a.b5e82f7345be66395aa4780b3472c74e.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i.etsystatic.com/8094028/r/il/5cd070/632722041/il_1080xN.632722041_952b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.homesdirect365.co.uk/images/large-black-and-white-dial-wall-clock-p66473-110537_zoom.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.pinimg.com/originals/af/27/69/af27693950b38cbe2eacc03a2ab40e8b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://i.pinimg.com/736x/8e/e1/80/8ee180278755d6c309636f67b1b54c92.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

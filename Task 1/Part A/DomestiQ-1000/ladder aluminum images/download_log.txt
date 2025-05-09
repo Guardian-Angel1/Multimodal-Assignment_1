@@ -1,0 +1,171 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\ladder aluminum images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images.homedepot-static.com/productImages/6b956c00-7533-48e2-9be8-ebdf86e9146a/svn/werner-step-ladders-t406-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://i5.walmartimages.com/asr/53ab3e68-038e-4f47-b6b6-02a0f0bcbdd4_2.38d698613b1ed0c00a2e248a6248b313.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://i5.walmartimages.com/asr/cf866577-be09-401b-9dcb-5d98f296b4c8_1.edd7e048209057cd441b5ff4e9a74351.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://roc-aluminum.com/wp-content/uploads/2020/06/ROC-700FLD.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://i5.walmartimages.com/asr/4241baef-aaf3-4da6-931d-057483d86947_1.077ee021fec15a31b62d26215bbb4833.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from http://www.aluminiumtradingco.com/images/productimage/big/Aluminium-Ladder-(4).jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://images.homedepot-static.com/productImages/80b02e70-dddd-4ec4-959a-a3d33d922343/svn/gorilla-ladders-multi-position-ladders-gla-mpx22-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://images.homedepot-static.com/productImages/3e098ebc-db2b-4b63-9540-ae8e3643e631/svn/werner-step-stools-ssa03-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdn.shopify.com/s/files/1/3102/3290/products/b626935fab11cef1869fc3ee694f659f01db545e6b733be04fc496e8f34ce8f9_ea390f6f-c0f9-405f-b2a7-4a2f3892fe9c_2000x.jpg?v=1571752657
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://images-na.ssl-images-amazon.com/images/I/71A+zLjnuHL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from http://www.homedepot.com/catalog/productImages/1000/35/35b45de4-96ee-4d9c-8f43-f972f89500a8_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.apmc.ph/img/products/a_01_2x.jpg
+[!] Issue getting: https://www.apmc.ph/img/products/a_01_2x.jpg
+[!] Error:: <urlopen error [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1000)>
+[%] Downloading Image #12 from https://www.dewalt.ca/NA/product/images/3000x3000x96/DXL2220-20/DXL2220-20_1.jpg
+[!] Issue getting: https://www.dewalt.ca/NA/product/images/3000x3000x96/DXL2220-20/DXL2220-20_1.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #12 from https://images.homedepot-static.com/productImages/74ee6d0f-876e-493e-9a56-0bea76d58f45/svn/werner-multi-position-ladders-mt1-17b-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from http://image.made-in-china.com/2f0j00hjYTsZQACtqM/Aluminum-Ladder-T8035-6-.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://mobileimages.lowes.com/product/converted/051751/051751044270.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://images-na.ssl-images-amazon.com/images/I/71VSMVV7FcL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://image.pushauction.com/0/0/8e988417-c089-40ae-aab8-6eabffe3f1f7/2461430f-7d18-4a55-a038-74ddd8abea83.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i5.walmartimages.com/asr/e5c0fddc-8fcb-4875-a8ee-09061424c5d1.fc7695360da7f4f4760133ddc608ccc3.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://m.media-amazon.com/images/I/71VNxUBdI5S.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from http://d3d71ba2asa5oz.cloudfront.net/12013481/images/n_010-co-10138___1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i5.walmartimages.com/asr/8c98ae7b-baa3-405b-b296-1285c346b82b_1.71a4252179a9909bf00e91cdbd6120a5.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://images-cdn.ubuy.co.in/638ab6a39590983f12739993-telescoping-ladder-15ft-archom-aluminum.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://asghedom.com/wp-content/uploads/2020/08/151063-839eca.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://image.pushauction.com/0/0/8e988417-c089-40ae-aab8-6eabffe3f1f7/87c6448b-ba9a-4398-b3c6-d506099b5cb5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from http://www.rsis.co.uk/images/products/zoom/1475750399-91478600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://image.pushauction.com/0/0/8e988417-c089-40ae-aab8-6eabffe3f1f7/9c2fa203-93e8-4d16-bee1-5a0747496c8b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://m.media-amazon.com/images/I/61QP8YWnTUL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://i5.walmartimages.com/asr/31c5f698-b4d2-4d8f-98a7-b2fec578a188_1.de2a3d973a71aabae3b73b76c40e7e13.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://image.pushauction.com/0/0/8e988417-c089-40ae-aab8-6eabffe3f1f7/f5430fd3-379a-43fd-ae42-5bd339747b19.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i5.walmartimages.com/asr/35e0b348-9ffa-46f7-bfbe-5f0a6fe64891.152afeb9dac70eacd7d996003a474387.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://cdn.shopify.com/s/files/1/0515/0448/0426/products/AluminumTelescopingLadder-2_df85c396-77ad-4054-a190-94ff6338769c.jpg?v=1623397643
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://down-ph.img.susercontent.com/file/4db4a452d062591fa696bbc3530cca5e
+[%] File Downloaded !
+
+[%] Downloading Image #32 from http://images.laddersguide.biz/l-m/16-5ft-aluminum-multi-purpose-telescopic-ladder-pZUFcuEPn_LkvA.jpg
+[!] Issue getting: http://images.laddersguide.biz/l-m/16-5ft-aluminum-multi-purpose-telescopic-ladder-pZUFcuEPn_LkvA.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #32 from http://www.foldablealuminumladder.com/photo/ps26817072-lightweight_aluminum_telescopic_ladder_4x5_en131_aluminum_extension_ladder.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://image.pushauction.com/0/0/8e988417-c089-40ae-aab8-6eabffe3f1f7/5294f846-1ec8-4045-ab97-4f2d2484a723.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from http://www.dockladderdepot.com/dock-ladders-store/pc/catalog/tlad-10_958_detail.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.ladderman.com.my/image/ladderman/image/data/all_product_images/product-252/557INDx41603765672.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.equalequip.com/uploads/equalequip/products/ealtd501-832635_l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://m.media-amazon.com/images/I/61V3k0nkP4L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://m.media-amazon.com/images/I/71oLChstc0L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.pinimg.com/originals/ff/55/bf/ff55bf717fca784422d5d8e18a66b976.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://images-na.ssl-images-amazon.com/images/I/61ADbahL0fL._SL1200_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i5.walmartimages.com/asr/7f794262-8f70-418a-a0ae-03d8422264bb.2136ba420ec49bb7f35f5706506120c6.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i5.walmartimages.com/asr/26825b87-f6b1-40f9-a23f-9c7c5c94185f_1.185be8d294bd77f37a516d59c3623655.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.ladderman.com.my/image/ladderman/image/data/all_product_images/product-158/mftlc214_aluminum-telescopic-ladder_2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://images.homedepot-static.com/productImages/4f38c088-280d-4861-89a7-3d9e62c0674a/svn/werner-platform-ladders-p414-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://images.homedepot-static.com/productImages/06a90618-5329-420c-b63f-4f6497ce0791/svn/louisville-ladder-extension-ladders-ae2220-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://mobileimages.lowes.com/product/converted/051751/051751012088.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://images.homedepot-static.com/productImages/55216906-89ef-4f58-99fd-005a6c1c71b7/svn/werner-extension-ladders-d1520-2-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://media.distributordatasolutions.com/louisvilleladder/2016q3/b1c1bc0eddaf18c9d0edfbcb827f4257012b8b51.png
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://images.thdstatic.com/productImages/d6d13c4f-5da8-4d24-bf0d-4a9f2ba9f218/svn/louisville-ladder-extension-ladders-ae3220-64_600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://cdn-tp3.mozu.com/24645-37138/cms/37138/files/ca8b95da-f775-4322-a756-278ab716856e?quality=60&amp;_mzcb=_1618890579000
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

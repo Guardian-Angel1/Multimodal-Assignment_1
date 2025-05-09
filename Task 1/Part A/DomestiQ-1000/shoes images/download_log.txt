@@ -1,0 +1,197 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\shoes images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?cs=srgb&amp;dl=footwear-leather-shoes-267320.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?cs=srgb&amp;dl=fashion-fashionable-footwear-267301.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;w=1000&amp;q=80
+[!] Issue getting: https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;w=1000&amp;q=80
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #3 from https://www.hdwallpapers.in/download/red_nike_shoe_in_black_background_4k_hd_nike-HD.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://images.pexels.com/photos/786003/pexels-photo-786003.jpeg?cs=srgb&amp;dl=blur-close-up-depth-of-field-786003.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://get.pxhere.com/photo/person-shoe-white-leg-sneaker-spring-nike-black-cool-sneakers-footwear-179708.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://wallpapercave.com/wp/wp2896922.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://png.pngtree.com/back_origin_pic/04/63/68/bd6de885b7268afbe7d1018ebb3c46ff.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.surfstitch.com/on/demandware.static/-/Sites-ss-master-catalog/default/dw41aabbf1/images/564985BLK/BLACK-WOMENS-FOOTWEAR-CONVERSE-SNEAKERS-564985BLK_5.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.knittingindustry.com/uploads/1948/247612.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://happygentleman.com/wp-content/uploads/2019/11/80058-6-mens-shoes-black2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from http://wallpapercave.com/wp/FqriCef.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOONIKE-RUNALLDSMAR26297ED053FA/1563333298007_0..jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://get.pxhere.com/photo/shoe-sport-run-leisure-fitness-running-shoe-tennis-shoe-product-men-sporty-footwear-dynamic-brooks-product-photo-running-sports-sport-shoe-outdoor-shoe-athletic-shoe-walking-shoe-cross-training-shoe-bicycle-shoe-highly-functional-keen-on-sport-shoe-market-958806.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i5.walmartimages.com/asr/618a647e-36db-47da-85d9-d449f283271b.734ddc164b4b2d29f9eb3d6ba8085450.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://addicfashion.com/wp-content/uploads/2019/06/cool-shoes-summer-ideas-for-men-that-looks-cool18.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://images.pexels.com/photos/609771/pexels-photo-609771.jpeg?cs=srgb&amp;dl=brand-trademark-cobblestones-community-609771.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://images.lucepictor.com/wp-content/uploads/2016/11/running-shoes-product-photo-on-white.jpg
+[!] Issue getting: https://images.lucepictor.com/wp-content/uploads/2016/11/running-shoes-product-photo-on-white.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #17 from https://n1.sdlcdn.com/imgs/g/0/i/Nike-Multi-Color-Casual-Shoes-SDL051199315-1-a2a35.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://e7.pngegg.com/pngimages/382/622/png-clipart-sneakers-skate-shoe-nike-one-nike-shoe-purple-fashion.png
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://mediaserver.responsesource.com/press-release/28771/ADI5077-Adidas-Boost-Running-Sho.png
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i5.walmartimages.com/asr/71721447-1260-4ed7-a352-ff86558411a5_1.b621673c9d6c12481c111d5d10169c97.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://wallpapercave.com/wp/qtHXk2l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://wallpapercave.com/wp/wp2461049.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://clipart-library.com/images_k/shoe-transparent-background/shoe-transparent-background-20.png
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://ae01.alicdn.com/kf/HTB12iBOajnuK1RkSmFPq6AuzFXaJ/New-Arrival-Spring-Summer-Comfortable-Casual-Shoes-Mens-Canvas-Shoes-For-Men-Lace-Up-Brand-Fashion.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB12iBOajnuK1RkSmFPq6AuzFXaJ/New-Arrival-Spring-Summer-Comfortable-Casual-Shoes-Mens-Canvas-Shoes-For-Men-Lace-Up-Brand-Fashion.jpg
+[!] Error:: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[%] Downloading Image #24 from https://ae01.alicdn.com/kf/HTB1uiy7KVXXXXXgXXXXq6xXFXXXG/2015-comfortable-running-shoes-super-light-sneakers-wearable-men-athletic-shoes-brand-sport-shoes-running-men.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1uiy7KVXXXXXgXXXXq6xXFXXXG/2015-comfortable-running-shoes-super-light-sneakers-wearable-men-athletic-shoes-brand-sport-shoes-running-men.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #24 from https://ae01.alicdn.com/kf/HTB1dDncMVXXXXcHaXXXq6xXFXXXs/XTEP-Brand-Profession-Running-Shoes-2016-Autumn-Winter-Men-s-Sports-Shoes-Damping-Cushioning-Athletic-Sneakers.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1dDncMVXXXXcHaXXXq6xXFXXXs/XTEP-Brand-Profession-Running-Shoes-2016-Autumn-Winter-Men-s-Sports-Shoes-Damping-Cushioning-Athletic-Sneakers.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #24 from http://clipart-library.com/image_gallery/n1023219.png
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://ae01.alicdn.com/kf/HTB1CR5kPVXXXXbIXFXXq6xXFXXXf/2017-Hot-Sale-Men-Summer-Shoes-Breathable-Male-Casual-Shoes-Fashion-Chaussure-Homme-Soft-Zapatos-Hombre.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1CR5kPVXXXXbIXFXXq6xXFXXXf/2017-Hot-Sale-Men-Summer-Shoes-Breathable-Male-Casual-Shoes-Fashion-Chaussure-Homme-Soft-Zapatos-Hombre.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #25 from https://pixnio.com/free-images/2017/03/18/2017-03-18-11-27-58.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&amp;dl=fashion-shoes-footwear-19090.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://ae01.alicdn.com/kf/HTB1iSKuNpXXXXcGXFXXq6xXFXXXC/New-Children-Shoes-Girls-Boys-Sport-Shoes-Antislip-Soft-Bottom-Kids-Fashion-Sneaker-Comfortable-Breathable-Mesh.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1iSKuNpXXXXcGXFXXq6xXFXXXC/New-Children-Shoes-Girls-Boys-Sport-Shoes-Antislip-Soft-Bottom-Kids-Fashion-Sneaker-Comfortable-Breathable-Mesh.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #27 from https://images.freeimages.com/images/large-previews/c09/shoes-1420540.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://www.pixelstalk.net/wp-content/uploads/2016/05/Original-image-Adidas-Shoes-Wallpapers-HD.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 95 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #29 from https://www.blufashion.com/wp-content/uploads/2020/02/Shoes-Color-275x300.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.researchgate.net/profile/Xiaoyan_Deng2/publication/232409410/figure/download/fig1/AS:300608746737664@1448682118219/The-seven-shoe-components-and-corresponding-color-palettes-used-in-the-NIKEiD.png
+[!] Issue getting: https://www.researchgate.net/profile/Xiaoyan_Deng2/publication/232409410/figure/download/fig1/AS:300608746737664@1448682118219/The-seven-shoe-components-and-corresponding-color-palettes-used-in-the-NIKEiD.png
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #30 from https://www.walkjogrun.net/wp-content/uploads/2021/12/Screen-Shot-2022-01-03-at-10.02.05-AM-e1641200634617.png
+[%] File Downloaded !
+
+[%] Downloading Image #31 from http://www.walkingonacloud.ca/blog/wp-content/uploads/2016/03/Mensh_SHoe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://thumbs.dreamstime.com/z/collection-color-shoes-24023299.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://img.freepik.com/premium-photo/colorful-shoes-realistic-color-palette-collection-vibrant-footwear_899449-86390.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://threadcurve.com/wp-content/uploads/2020/06/types-of-shoes-for-women-June162020-2-min.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.worldfootwear.com/media/images/news/wf2017282553p.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://cdn.cliqueinc.com/posts/305987/shoe-color-trends-305987-1678241772625-main.1200x0c.jpg?interlace=true&amp;quality=70
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.suitsexpert.com/wp-content/uploads/2019/10/different-types-of-dress-shoes.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://cdn.cliqueinc.com/posts/305987/shoe-color-trends-305987-1678241822005-main.1200x0c.jpg?interlace=true&amp;quality=70
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.shoe-tease.com/wp-content/uploads/2021/10/Shoes-that-go-with-everything-ShoeTease.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://cdn2.vectorstock.com/i/1000x1000/21/76/different-colors-of-shoes-vector-10112176.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.si.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTkyNzk1NzIzOTQ2MjcxOTY1/nike-pegasus.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i.ytimg.com/vi/t_znuI7cYa4/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://nationaltoday.com/wp-content/uploads/2021/11/National-Two-Different-Colored-Shoes-Day.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.holidaysmart.com/sites/default/files/daily/may03-shs1500_616354991.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://insideoutstyleblog.com/wp-content/uploads/2023/11/column-of-colour-and-shoe-colour-choices.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/58127/910/607/m1/fpnw/wm0/var_shoes-.jpg?1387186772&amp;s=1eb2f9f6e93e3c29cc278eb54a71f4a4
+[!] Issue getting: https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/58127/910/607/m1/fpnw/wm0/var_shoes-.jpg?1387186772&amp;s=1eb2f9f6e93e3c29cc278eb54a71f4a4
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #46 from https://bespokeunit.com/wp-content/uploads/2017/03/The-Ultimate-Shoe-Trouser-Coordination-Matrix-By-Bespoke-Unit-A4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i.pinimg.com/736x/67/a6/bd/67a6bdc61026933413477ff883c7e25b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://myenglishtutors.org/wp-content/uploads/2020/10/types-of-shoes-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://myenglishtutors.org/wp-content/uploads/2020/10/types-of-shoes-2-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://i.pinimg.com/736x/d6/1e/89/d61e897275bde4af52a3fd31128a6ae9.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

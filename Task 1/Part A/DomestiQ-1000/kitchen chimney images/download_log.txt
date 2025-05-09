@@ -1,0 +1,183 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\kitchen chimney images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://m.media-amazon.com/images/I/61WztNGYZEL._SL1200_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://media.designcafe.com/wp-content/uploads/2020/03/21013408/box-type-modular-kitchen-chimney-designs.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/in/kitchen-appliances/Chimney cat P Desk.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[!] Issue getting: https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/in/kitchen-appliances/Chimney cat P Desk.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[!] Error:: URL can't contain control characters. '/content/dam/midea-aem/in/kitchen-appliances/Chimney cat P Desk.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg' (found at least ' ')
+[%] Downloading Image #3 from https://media.designcafe.com/wp-content/uploads/2020/03/21013403/angular-kitchen-chimney-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://1.bp.blogspot.com/-FL8mPwYo9Xk/Ukp0GDGppII/AAAAAAAAHKc/9J_bhI0Va-c/s1600/1055825331.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015348996_Install it on the wall.webp
+[!] Issue getting: https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015348996_Install it on the wall.webp
+[!] Error:: URL can't contain control characters. '/redbrics-prod-backend.appspot.com/blog/images/_1676015348996_Install it on the wall.webp' (found at least ' ')
+[%] Downloading Image #5 from https://www.yourkitchenarena.in/wp-content/uploads/2020/03/7-1-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.decorpot.com/images/blogimage555782063pyramid-chimney-on-the-ceiling-with-led-lighting.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://media.designcafe.com/wp-content/uploads/2020/03/21013421/curved-glass-kitchen-chimney-design-768x461.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://mastergadgets.com/wp-content/uploads/2021/03/buy-Kitchen-Chimneys.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://i.pinimg.com/736x/28/c4/13/28c413b1025e254b7b942eaff06c8417.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://tiimg.tistatic.com/fp/1/008/460/stainless-steel-kitchen-chimney-for-home-and-restaurant-742.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://5.imimg.com/data5/UE/MN/MY-2010791/iland-kitchen-chimney-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.nobroker.in/blog/wp-content/uploads/2022/04/Benefits-Of-A-Kitchen-Chimney-Design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015713445_A View From Any Direction.webp
+[!] Issue getting: https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015713445_A View From Any Direction.webp
+[!] Error:: URL can't contain control characters. '/redbrics-prod-backend.appspot.com/blog/images/_1676015713445_A View From Any Direction.webp' (found at least ' ')
+[%] Downloading Image #13 from https://media.designcafe.com/wp-content/uploads/2020/03/21013421/curved-glass-kitchen-chimney-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://media.designcafe.com/wp-content/uploads/2020/12/22181953/different-types-of-kitchen-chimney.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://media.designcafe.com/wp-content/uploads/2020/03/21013433/island-kitchen-chimney-designs-768x461.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.hallmarkkitchendesigns.com/wp-content/uploads/2016/05/web-ready-chimney-breast.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i.pinimg.com/originals/f8/d9/4a/f8d94a723bc517baa71b656edc4a1693.png
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://media.designcafe.com/wp-content/uploads/2020/03/21013506/wall-mounted-kitchen-chimney-designs-768x461.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015424224_Make a dedicated kitchen space.webp
+[!] Issue getting: https://storage.googleapis.com/redbrics-prod-backend.appspot.com/blog/images/_1676015424224_Make a dedicated kitchen space.webp
+[!] Error:: URL can't contain control characters. '/redbrics-prod-backend.appspot.com/blog/images/_1676015424224_Make a dedicated kitchen space.webp' (found at least ' ')
+[%] Downloading Image #19 from https://i.pinimg.com/originals/6e/fc/54/6efc542e72e56cf48db89d6ace92ff63.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://media.designcafe.com/wp-content/uploads/2020/03/21013413/built-in-modern-kitchen-chimney.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://api.makemyhouse.com/public/Media/rimage/1024/designers_project/1615446371_519.jpeg?watermark=false
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.harveyjones.com/wp-content/uploads/2022/12/Chimney-Article-Body-Image-2-768x538.png
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://media.designcafe.com/wp-content/uploads/2020/03/21013444/kitchen-chimney-designs-for-your-home-768x461.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://images.homify.com/images/a_0,c_fit,f_auto,q_auto,w_554/v1521025256/p/photo/image/2476651/11/modern-kitchen-units-photos-by-u-and-i-designs.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://kitchenation.in/wp-content/uploads/2023/08/amzon-great-feedom-festival-sale-on-kitchen-chimney1691229908287.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.homelane.com/blog/wp-content/uploads/2022/11/different-types-of-kitchen-chimney-768x532.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.kuche7.com/Content/images/blogs8/Modular kitchen chimney.jpg
+[!] Issue getting: https://www.kuche7.com/Content/images/blogs8/Modular kitchen chimney.jpg
+[!] Error:: URL can't contain control characters. '/Content/images/blogs8/Modular kitchen chimney.jpg' (found at least ' ')
+[%] Downloading Image #27 from https://www.kuche7.com/Content/images/blogs8/wallmount.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://media.designcafe.com/wp-content/uploads/2020/12/22182010/faber-kitchen-chimney-type.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i0.wp.com/civiconcepts.com/wp-content/uploads/2022/10/Types-of-Chimney-For-Kitchen.jpg?fit=1024%2C661&amp;ssl=1&amp;is-pending-load=1
+[!] Issue getting: https://i0.wp.com/civiconcepts.com/wp-content/uploads/2022/10/Types-of-Chimney-For-Kitchen.jpg?fit=1024%2C661&amp;ssl=1&amp;is-pending-load=1
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #29 from https://blog.hippostores.com/content/images/size/w2000/2024/05/Different-Types-of-Modular-Kitchen-Chimney.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.homelane.com/blog/wp-content/uploads/2022/11/electric-kitchen-chimney-768x503.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.tech-wonders.com/wp-content/uploads/2021/07/best-kitchen-chimney.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://thekitchenqueries.com/wp-content/uploads/2023/03/Built-in.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://media.designcafe.com/wp-content/uploads/2020/04/10154750/kitchen-chimney-types.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://media.designcafe.com/wp-content/uploads/2020/12/22182016/glen-kitchen-chimney-type-in-india.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.kuche7.com/Content/images/blogs8/benefits of kitchen chimney.jpg
+[!] Issue getting: https://www.kuche7.com/Content/images/blogs8/benefits of kitchen chimney.jpg
+[!] Error:: URL can't contain control characters. '/Content/images/blogs8/benefits of kitchen chimney.jpg' (found at least ' ')
+[%] Downloading Image #35 from https://media.designcafe.com/wp-content/uploads/2020/12/22181958/elica-chimney-kitchen-type-768x461.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://media.designcafe.com/wp-content/uploads/2020/03/21013425/downdraft-kitchen-chimney-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.homelane.com/blog/wp-content/uploads/2022/11/chimney-with-hoods-768x512.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i.ytimg.com/vi/gHrzAaNWfWM/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://thekitchenqueries.com/wp-content/uploads/2023/03/Types-Of-Chimneys-In-A-Modular-Kitchen-1-768x320.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.ytimg.com/vi/RhvNcgK4x-s/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i.ytimg.com/vi/fm3bsJIGnVE/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i.ytimg.com/vi/_Ka4z6AfGdk/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://i.ytimg.com/vi/xy31qJ3Vv7U/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://i.ytimg.com/vi/PTfTbRuDlwU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from http://www.ventairindia.com/cdn/shop/articles/Ultimate_Kitchen_Chimney_Installation_Guide_Image..jpg?v=1651207158
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i.ytimg.com/vi/IAL3VfBjudo/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i.ytimg.com/vi/Yqtz-6Bh-H4/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://i.ytimg.com/vi/r4EgvfeyOqE/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.ytimg.com/vi/fEL2fcrmePQ/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://cdn.homeusetool.com/1371944/how-to-install-kitchen-chimney-at-home.jpg?v=2
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

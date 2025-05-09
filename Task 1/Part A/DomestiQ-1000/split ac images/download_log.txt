@@ -1,0 +1,192 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\split ac images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from http://images.samsung.com/is/image/samsung/ae_AS24UUPXSG_002_Right-Angle?$TM-Gallery$
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.homedepot-static.com/productImages/353d18e8-375c-4fef-8007-6e7c102b4d92/svn/white-gree-mini-split-acs-heat-pump-multi30hp202-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://southeastelectrical.com.au/wp-content/uploads/2017/05/split-system-air-conditioning.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://images-na.ssl-images-amazon.com/images/I/71EOoXDHmAL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://img.staticmb.com/mbcontent/images/uploads/2023/3/Split-air-conditioner.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.lg.com/ae/images/tropical-split-air-conditioners/Features/HA-GF-On-Off-AC-white-01-m-v.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://acmartbd.com/wp-content/uploads/2015/03/Samsung-AR24FC2TAUR-2-Ton-Split-Ac1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://www.princetonfuel.com/wp-content/uploads/2015/06/ductless-ac.jpe
+[!] Issue getting: http://www.princetonfuel.com/wp-content/uploads/2015/06/ductless-ac.jpe
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #8 from https://media.croma.com/image/upload/v1681446584/Croma Assets/Large Appliances/Air Conditioner/Images/268334_12_vclydy.jpg
+[!] Issue getting: https://media.croma.com/image/upload/v1681446584/Croma Assets/Large Appliances/Air Conditioner/Images/268334_12_vclydy.jpg
+[!] Error:: URL can't contain control characters. '/image/upload/v1681446584/Croma Assets/Large Appliances/Air Conditioner/Images/268334_12_vclydy.jpg' (found at least ' ')
+[%] Downloading Image #8 from https://images-na.ssl-images-amazon.com/images/I/71nkylFEqFL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://fundamental.in/wp-content/uploads/2021/03/71UIQVbxx4L._SL1500_.jpg
+[!] Issue getting: https://fundamental.in/wp-content/uploads/2021/03/71UIQVbxx4L._SL1500_.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #9 from https://alquilercastilloshinchables.info/wp-content/uploads/2020/05/GREE-LIVO-18000-BTU-1.5-Ton-Ductless-Mini-Split-Air-Conditioner-....jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://simplexace.com.au/wp-content/uploads/2021/07/back2back-air-conditioning3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://keyvendors.com/blogs/wp-content/uploads/2022/01/Split-AC-Installation-in-Half-the-Time.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://i.ytimg.com/vi/kI2aLKvMHyo/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://s42814.pcdn.co/wp-content/uploads/2019/12/06_heat_pump-scaled.jpg.optimal.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://techtricbd.com/wp-content/uploads/2020/10/aid701047-v4-728px-Install-a-Split-System-Air-Conditioner-Step-11-Version-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://i.pinimg.com/originals/ed/56/2d/ed562d3a61d38614d683771158b6e6be.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://s42814.pcdn.co/wp-content/uploads/2019/12/03_heat_pump-scaled.jpg.optimal.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://lh6.googleusercontent.com/KSfNDjITNkr0efB5UDdBZCupZ-h4ftiVG41k5YL0IEzW0xmFntMCrhqnGb7aSscTpG2-fSEO7I0SvfH6ypI3gB2telAu3FbnvTdDa1D6XfzyCvJTwGbr6DAXGYGzRxHwivaRJIat
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.cielowigle.com/wp-content/uploads/2021/10/mini-split-AC-installation.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://www.familyhandyman.com/wp-content/uploads/2019/07/FH19SEP_597_50_032-ductless-air-conditioner.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i.pinimg.com/originals/cf/dc/ae/cfdcae76c350cf311bd33ac7090916ec.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://cdn.shopify.com/s/files/1/0720/5269/files/minisplit.png?13702160605309217940
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-install-a-mini-split-step-2.jpg
+[Error]Invalid image, not saving https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-install-a-mini-split-step-2.jpg
+
+[!] Issue getting: https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-install-a-mini-split-step-2.jpg
+[!] Error:: Invalid image, not saving https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-install-a-mini-split-step-2.jpg
+
+[%] Downloading Image #22 from https://topgunairtx.com/wp-content/uploads/2020/04/Ductless-Mini-Split-AC-Installation.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://i.ytimg.com/vi/GhCEB67lP5A/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.theaveragecraftsman.com/wp-content/uploads/2018/02/article-feature.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://myexpresspros.com/wp-content/uploads/2020/07/SplitAirConfig-1-1024x859.jpg
+[!] Issue getting: https://myexpresspros.com/wp-content/uploads/2020/07/SplitAirConfig-1-1024x859.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #25 from https://i.ytimg.com/vi/9NgMtIdSsYg/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://i.ytimg.com/vi/GxlewxYU620/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://i.pinimg.com/originals/e7/70/4d/e7704d8182e519b4dea68c60c9629106.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://airtech.com.au/images/what-is-split-system-air-conditioning.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.lawsonair.com.au/assets/images/multi split air conditioning installation- lawson air brisbane.JPG
+[!] Issue getting: https://www.lawsonair.com.au/assets/images/multi split air conditioning installation- lawson air brisbane.JPG
+[!] Error:: URL can't contain control characters. '/assets/images/multi split air conditioning installation- lawson air brisbane.JPG' (found at least ' ')
+[%] Downloading Image #29 from https://5.imimg.com/data5/SELLER/Default/2022/10/LR/JI/AR/16509542/daikin-ftkg50tv16u-1-5-ton-split-ac-1000x1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://outfitnews.com/wp-content/uploads/2023/03/image-1024x841.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.lg.com/ae/images/tropical-split-air-conditioners/md07573499/gallery/DZ-12.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://modernize.com/wp-content/uploads/2019/10/split-air-conditioner-system.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.lg.com/za/images/AC/features/M096JH_M126JH_Simple-and-Slim-Design_With_Hidden_Display170718_D_V1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://media.croma.com/image/upload/v1681448033/Croma Assets/Large Appliances/Air Conditioner/Images/269476_1_luvlxu.png
+[!] Issue getting: https://media.croma.com/image/upload/v1681448033/Croma Assets/Large Appliances/Air Conditioner/Images/269476_1_luvlxu.png
+[!] Error:: URL can't contain control characters. '/image/upload/v1681448033/Croma Assets/Large Appliances/Air Conditioner/Images/269476_1_luvlxu.png' (found at least ' ')
+[%] Downloading Image #34 from https://techschems.com/wp-content/img/1827-split-ac-working-principle-diagram.jpg
+[!] Issue getting: https://techschems.com/wp-content/img/1827-split-ac-working-principle-diagram.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #34 from https://m.media-amazon.com/images/I/61ntsZaoQtL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://cdn.reviewcenter.in/wp-content/uploads/2012/03/LG-Split-AC-colored-body-696x314.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.plugnpoint.com/wp-content/uploads/2023/03/Samsung-65468818-ae-feature-designed-to-cool-faster-wider-farther-225951385-FB_TYPE_A_JPG-870x460.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://indoorbreathing.com/wp-content/uploads/2020/04/Senville-SENL-24CD-24000-BTU-Ductless-Mini-Split-Air-Conditioner-1320x1302.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://www.lg.com/content/dam/channel/wcms/in/images/split-ac/features/RAC-Banner-6-In-1-Feature-M.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from http://acmartbd.com/wp-content/uploads/2015/06/Gree-1-ton-Split-GS-12AW-2-924x784.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://comfort-cooling.in/wp-content/uploads/2021/06/DImension-of-Haier-1.5-ton-5-star-split-AC.png
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://images.carriercms.com/image/upload/v1600973640/carrier/commercial-hvac-middle-east/products/ductless/carrier-xpression-pro-ductless-system.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.acematerial.pk/wp-content/uploads/2023/07/HBV-Light-up.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://fouanistore.com/storage/data/products_600_600/886.jpg?v=0
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://s3-us-west-2.amazonaws.com/d-airconditioning.co/assets/img/13298125_1156136847777336_1772125061_n+(1).jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://i5.walmartimages.com/asr/ff516092-04be-4327-b100-9564ec74b82b.535fd54a246f7373c8f2f513e8626cc7.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i5.walmartimages.com/asr/00a28a63-9c9e-4469-80dd-6ed8f25f2997_2.869ebeca6a48e844670ff019d57445c7.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.xyj.in/wp-content/uploads/2017/03/top-10-best-split-ac-brands-for-home-and-office.jpg
+[!] Issue getting: https://www.xyj.in/wp-content/uploads/2017/03/top-10-best-split-ac-brands-for-home-and-office.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.xyj.in'. (_ssl.c:1000)>
+[%] Downloading Image #47 from https://2.bp.blogspot.com/-Epz7InIMGFk/UN8Rijjm2xI/AAAAAAAAAJU/uEqvKZ0ISFI/s1600/amvent-12000btu-1-ton-ductless.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://images-na.ssl-images-amazon.com/images/I/710feeQWFxL._SL1200_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.gadgetsbhai.com/wp-content/uploads/2023/01/Best-Split-AC-Brands-in-India.webp
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/g/l/gls12v5fogsy_main_1.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

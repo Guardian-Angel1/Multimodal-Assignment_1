@@ -1,0 +1,334 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\microwave single door images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://5.imimg.com/data5/OR/QC/CS/SELLER-26116263/single-door-microwave-oven-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://5.imimg.com/data5/JG/VJ/TR/SELLER-50555433/home-speaker-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://tiimg.tistatic.com/fp/2/008/185/digital-timer-control-single-door-stainless-steel-commercial-microwave-oven-528.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://5.imimg.com/data5/KS/FK/HL/SELLER-11592090/microwave-oven-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://5.imimg.com/data5/SS/IM/TF/SELLER-34338691/single-door-microwave-oven-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://5.imimg.com/data5/TL/EX/LI/SELLER-5494957/cata-built-in-microwave-mc-25-gtc-wh-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://i.pinimg.com/originals/3b/7b/93/3b7b936b23b72ac3a98c982440924502.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://5.imimg.com/data5/TG/ZE/PV/SELLER-73105954/rent-convection-microwave-17-21-ltr-single-door-refrigerator-165-190-ltr--1000x1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdnimg.webstaurantstore.com/images/products/xxl/447296/1897438.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://cdn.vox-cdn.com/thumbor/SK5EA_BUmOMpAhCWmzaxOYVgppg=/0x0:2400x1747/1200x800/filters:focal(1008x682:1392x1066)/cdn.vox-cdn.com/uploads/chorus_image/image/69899637/best_microwave_panel.0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://urbanez.com.my/image/urbanez/image/cache/data/all_product_images/product-2337/beko-bqw12400x-built-in-40l-compact-combi-microwave-with-grill-oven-01-420x420.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://5.imimg.com/data5/LS/SZ/MX/SELLER-50555433/ao-smith-water-purifier-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://adaappliances.com/wp-content/uploads/2017/08/GE-Cafe-Series-Countertop-Convection-Microwave-Oven-05-983x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://images-na.ssl-images-amazon.com/images/I/81qfcFblMrL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/15821b96-bbee-11ec-a4e8-6ebcd0d8bd62.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://hernebaydomestics.co.uk/wp-content/uploads/2020/07/Neff-C1AMG84N0B-Fascia-1024x575.jpg
+[!] Issue getting: https://hernebaydomestics.co.uk/wp-content/uploads/2020/07/Neff-C1AMG84N0B-Fascia-1024x575.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #16 from https://cdn.knorrweb.com/general-electric/cgi12609.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://images-na.ssl-images-amazon.com/images/I/51nV8Maj4tL._SL1000_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://media3.bsh-group.com/Images/600x/MCIM02879004_Thermador-microwave-ovens-24-inch-Microwave-drop-down-doors_1200x1600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://content.etilize.com/Original/1022508934.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.kenyatronics.com/images/getImage/php8rbBUO/800
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/my/kitchen-appliances/microwave-electric-ovens/microwave-oven/21l-digital-microwave-oven-am821c2ra(gn)/AM821C2RA(GN) (1).png/jcr:content/renditions/cq5dam.compression.png
+[!] Issue getting: https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/my/kitchen-appliances/microwave-electric-ovens/microwave-oven/21l-digital-microwave-oven-am821c2ra(gn)/AM821C2RA(GN) (1).png/jcr:content/renditions/cq5dam.compression.png
+[!] Error:: URL can't contain control characters. '/content/dam/midea-aem/my/kitchen-appliances/microwave-electric-ovens/microwave-oven/21l-digital-microwave-oven-am821c2ra(gn)/AM821C2RA(GN) (1).png/jcr:content/renditions/cq5dam.compression.png' (found at least ' ')
+[%] Downloading Image #21 from https://cdnimg.webstaurantstore.com/images/products/xxl/447313/1897482.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from http://images.samsung.com/is/image/samsung/ca_ME17H703SHS-AC_001_Front_silver?$TM-Gallery$
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://s7d2.scene7.com/is/image/homedepotcanada/p_1001225167.jpg?$pipGallery$&amp;hei=1000&amp;wid=1000&amp;fmt=jpg&amp;fit=constrain
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://png.pngtree.com/background/20230527/original/pngtree-white-microwave-with-open-door-on-white-background-photo-picture-image_2759150.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://c.shld.net/rpx/i/s/i/spin/10038420/prod_26705972112?hei=1000&amp;wid=1000
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.tastingtable.com/img/gallery/the-reason-your-microwave-door-has-a-mesh-grating/l-intro-1695816976.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://i5.walmartimages.com/asr/333d9f88-e646-49cb-9bf2-2c25b40f84bf_1.1b7fdec2bc25510794d66e9974346fec.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://homeefficiencyguide.com/wp-content/uploads/2022/05/microwaving-turning-on-when-door-is-opened-720x720.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.ikea.com/us/en/images/products/huvudsaklig-built-in-microwave-stainless-steel-color__0852219_PE779996_S5.JPG?f=s
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7315/7315081cv20d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.amresupply.com/thumbnail/product/2241372/625/469/2241372-W10889332-Whirlpool-Microwave-Door-Assembly.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://ca.subzero-wolf.com/-/media/images/united-states/widen/interior-images/md30pe_open_sl_luxe-transitional.jpg?quality=100&amp;width=1200
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.alsertdoors.com.au/fileadmin/user_upload/mechanisms/microwave_hl/microwave_hl_1.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #34 from https://tiimg.tistatic.com/fp/1/007/897/high-efficient-and-log-durable-stainless-steel-single-door-microwave-oven-561.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #35 from https://images-na.ssl-images-amazon.com/images/I/81yfRSIKvPL._SL1500_.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #36 from https://homemicrowave.com/wp-content/uploads/2020/10/microwave-with-quiet-door.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #37 from https://mobileimages.lowes.com/product/converted/825225/825225926962.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 7
+
+[%] Indexed 35 Images on Page 7.
+
+===============================================
+
+[%] Downloading Image #38 from https://st.hzcdn.com/fimgs/52026766060dc1f5_2217-w240-h240-b0-p0--home-design.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 8
+
+[%] Indexed 35 Images on Page 8.
+
+===============================================
+
+[%] Downloading Image #39 from https://danmarcappliance.com/wp-content/uploads/2020/01/P130023_19z-1024x591.jpeg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 9
+
+[%] Indexed 35 Images on Page 9.
+
+===============================================
+
+[%] Downloading Image #40 from https://mobileimages.lowes.com/productimages/e633b1fe-bf77-4165-b9ed-00fb43b1fedb/63447623.jpg?size=pdhism
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 10
+
+[%] Indexed 35 Images on Page 10.
+
+===============================================
+
+[%] Downloading Image #41 from https://www.lg.com/au/images/microwave-ovens/ms3042gs/gallery/lg-ms3042gs-silver-microwave-oven-medium01.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 11
+
+[%] Indexed 35 Images on Page 11.
+
+===============================================
+
+[%] Downloading Image #42 from https://media.gettyimages.com/id/1331256358/photo/open-microwave-oven-isolated-on-a-white-background.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=wLvR329Y887cRCKK8bS3e_BWA4SevjiMMIzS6GUbgv4=
+[!] Issue getting: https://media.gettyimages.com/id/1331256358/photo/open-microwave-oven-isolated-on-a-white-background.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=wLvR329Y887cRCKK8bS3e_BWA4SevjiMMIzS6GUbgv4=
+[!] Error:: HTTP Error 400: Bad Request
+
+
+[!!]Indexing page: 12
+
+[%] Indexed 35 Images on Page 12.
+
+===============================================
+
+[%] Downloading Image #42 from https://hernebaydomestics.co.uk/wp-content/uploads/2020/07/Neff-C1AMG84N0B-Fascia-scaled.jpg
+[!] Issue getting: https://hernebaydomestics.co.uk/wp-content/uploads/2020/07/Neff-C1AMG84N0B-Fascia-scaled.jpg
+[!] Error:: Remote end closed connection without response
+
+
+[!!]Indexing page: 13
+
+[%] Indexed 35 Images on Page 13.
+
+===============================================
+
+[%] Downloading Image #42 from https://i.pinimg.com/originals/a4/39/1e/a4391e9f751504428ca32f98afcf8607.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 14
+
+[%] Indexed 35 Images on Page 14.
+
+===============================================
+
+[%] Downloading Image #43 from https://adaappliances.com/wp-content/uploads/2017/08/GE-Cafe-Series-30-Built-In-French-Door-Single-Convection-Wall-Oven-02.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 15
+
+[%] Indexed 35 Images on Page 15.
+
+===============================================
+
+[%] Downloading Image #44 from https://img.freepik.com/premium-psd/microwave-oven-with-opened-door-front-view-3d-rendering-isolated-transparent-background_808337-23192.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 16
+
+[%] Indexed 35 Images on Page 16.
+
+===============================================
+
+[%] Downloading Image #45 from https://i.ytimg.com/vi/VUzioATdDqM/maxresdefault.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 17
+
+[%] Indexed 35 Images on Page 17.
+
+===============================================
+
+[%] Downloading Image #46 from https://media3.bosch-home.com/Product_Shots/1200x675/MCSA02032222_BEL550MS0_CompactOven_Bosch_STP_def.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 18
+
+[%] Indexed 35 Images on Page 18.
+
+===============================================
+
+[%] Downloading Image #47 from https://i.pinimg.com/originals/68/04/90/680490743a9b4a72ba730484fd4a3901.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 19
+
+[%] Indexed 35 Images on Page 19.
+
+===============================================
+
+[%] Downloading Image #48 from https://c8.alamy.com/comp/2CFY8CK/black-microwave-oven-with-door-open-isolated-on-white-2CFY8CK.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 20
+
+[%] Indexed 35 Images on Page 20.
+
+===============================================
+
+[%] Downloading Image #49 from https://images-na.ssl-images-amazon.com/images/I/91t7EQBV4aL._SL1500_.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 21
+
+[%] Indexed 35 Images on Page 21.
+
+===============================================
+
+[%] Downloading Image #50 from https://fgteonline.com/wp-content/uploads/2021/09/29-2.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

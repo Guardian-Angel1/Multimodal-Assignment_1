@@ -1,0 +1,381 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\3-seater sofa images clear
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://static.ajproducts.com/resize/globalassets/739763.jpg?ref=66A920F735&amp;width=1180
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://admincontent.bimobject.com/public/productimages/858a5779-5744-4e52-8e68-877977e6d894/a90390ef-b37f-4568-805d-605ce5a71efc/593417?width=675&amp;height=675
+[!] Issue getting: https://admincontent.bimobject.com/public/productimages/858a5779-5744-4e52-8e68-877977e6d894/a90390ef-b37f-4568-805d-605ce5a71efc/593417?width=675&amp;height=675
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #2 from https://admincontent.bimobject.com/public/productimages/858a5779-5744-4e52-8e68-877977e6d894/a90390ef-b37f-4568-805d-605ce5a71efc/593420?width=675&amp;height=675
+[!] Issue getting: https://admincontent.bimobject.com/public/productimages/858a5779-5744-4e52-8e68-877977e6d894/a90390ef-b37f-4568-805d-605ce5a71efc/593420?width=675&amp;height=675
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #2 from https://media.karousell.com/media/photos/products/2023/5/1/3_seater_fabric_sofa_with_clea_1682928336_e66a39c6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://static.ajproducts.com/resize/globalassets/736724.jpg?ref=09BAA580F4&amp;width=1180
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://agapefurniture.com.au/wp-content/uploads/2022/10/161665722391_.pic_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://thefurnituremall.com.sg/wp-content/uploads/2022/05/Sofa-3-1000-768x768.png
+[!] Issue getting: https://thefurnituremall.com.sg/wp-content/uploads/2022/05/Sofa-3-1000-768x768.png
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #5 from https://i.pinimg.com/originals/03/ac/aa/03acaa88698d5888384491e229c4a81e.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.aldiss.com/images/products/large/42764_43397.jpg
+[!] Issue getting: https://www.aldiss.com/images/products/large/42764_43397.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #6 from https://couchlane.com/wp-content/uploads/2022/04/Cassandra-3-Seater-Sofa.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://i5.walmartimages.com/asr/9fc30584-b12b-4726-8527-d6d1d5b0949e.641107fc965d51ad8a6a31df7de2e58c.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://d6qwfb5pdou4u.cloudfront.net/product-images/6560001-6570000/6562542/f064fcaf0eac5535bfcd8cc44cbe91feb262d07641a4a0f35979432f7e8bce53/1500-1500-frame-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://static.ajproducts.com/resize/globalassets/494888.jpg?ref=94EC2F43F3&amp;width=1180
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://5.imimg.com/data5/SELLER/Default/2022/12/NU/KT/XA/11028783/screenshot-363--500x500.png
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://d6qwfb5pdou4u.cloudfront.net/product-images/6560001-6570000/6562542/bd1818f9136bf0f79ba700657985ec691dfd588dbade266743f4e07c0ea78bf3/1500-1500-frame-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://images.dunelm.com/30807006.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.scs.co.uk/on/demandware.static/-/Sites-master-catalog-scs/default/dwef92a9dd/images/large/large_L058409_1.jpg
+[!] Issue getting: https://www.scs.co.uk/on/demandware.static/-/Sites-master-catalog-scs/default/dwef92a9dd/images/large/large_L058409_1.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[%] Downloading Image #13 from https://images.woodenstreet.de/image/data/corner-sofa/albert-l-shape/sofa/Graphite-Grey/16.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://static.ufurnish.com/assets/product-images/scs/ol050068_9642-sky-matrix-plain-chenille_7463-sctr-light-wood/inspire-rockcliffe-3-seater-sofa-standard-back_medium-61ee7147.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://image.architonic.com/pro2-3/20700524/grade-three-seater-sofa-0720-3-ash-nm-sfr14-cutout-angle-main-image-pro-b-arcit18.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://d6qwfb5pdou4u.cloudfront.net/product-images/6570001-6580000/6574565/0e100c7715335b26e9f1c05f3ca3e674f5746c9afd95dd1f7806a4803bf28390/1500-1500-frame-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://img.edilportale.com/product-thumbs/b_x-trnk-new-york-613720-rel3b1b842.png
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://woodstage.in/wp-content/uploads/2022/03/1-107.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://images.dunelm.com/30748677_alt02.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://static.povison.com/media/catalog/product/j/6/j6_1.jpg
+[Error]Invalid image, not saving https://static.povison.com/media/catalog/product/j/6/j6_1.jpg
+
+[!] Issue getting: https://static.povison.com/media/catalog/product/j/6/j6_1.jpg
+[!] Error:: Invalid image, not saving https://static.povison.com/media/catalog/product/j/6/j6_1.jpg
+
+[%] Downloading Image #20 from https://i.pinimg.com/originals/98/21/6c/98216cf72887d55cb2c1034bdb3d598f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://static.ufurnish.com/assets/product-images/scs/ol050068_0307-slate-harlow-chenille-plain_9102-sctr-light-wood/inspire-rockcliffe-3-seater-sofa-standard-back_medium-1200aaf5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://images.dunelm.com/30808312.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.furniturechoice.co.uk/p/l/LS10005034/LS10005034.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://i5.walmartimages.com/asr/81b96e26-9d34-48d7-b732-2064cbfad90b_1.3e3d1d3757f1b006b5c2d3c644959c08.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.theplaceforhomesltd.co.uk/images/alstons-oceana-3-seater-sofa-p7000-16707_medium.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.furniturechoice.co.uk/p/l/FS10001237/FS10001237.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://images.dunelm.com/30807006_alt03.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://img.edilportale.com/products/CAB-3-seater-sofa-True-Design-202673-rel69900b07.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://sofa-place.co.uk/wp-content/uploads/2020/04/imperial-3-seater-ocean-graceland.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #30 from https://www.sofasbysaxon.com/images/stanhope-3-seater-sofa-p225-60023_image.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #31 from https://image.made-in-china.com/2f0j00decqisgCLpbz/Contemporary-White-Minimalist-Furniture-Sectional-Linen-Sofa-Fabric-3-Seater-Relax-Upholstered-Sofas-Living-Room-Set.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #32 from https://cdn.decornation.in/wp-content/uploads/2020/06/modern-designer-wooden-sofa.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #33 from http://shop.gkwretail.com/cdn/shop/files/3SeaterSofaModernFauxLeatherUpholstered3-SeaterSofaWithCarbonSteelLegs1.jpg?v=1687951301
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 7
+
+[%] Indexed 35 Images on Page 7.
+
+===============================================
+
+[%] Downloading Image #34 from https://images.dunelm.com/30792396.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 8
+
+[%] Indexed 35 Images on Page 8.
+
+===============================================
+
+[%] Downloading Image #35 from https://media.karousell.com/media/photos/products/2023/5/22/starex_3_seater_sofa_by_nuhoom_1684745138_9774339c
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 9
+
+[%] Indexed 35 Images on Page 9.
+
+===============================================
+
+[%] Downloading Image #36 from https://images.dunelm.com/30803521_alt01.jpg?$standardplayerdefault$&amp;img404=noimagedefault
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 10
+
+[%] Indexed 35 Images on Page 10.
+
+===============================================
+
+[%] Downloading Image #37 from https://target.scene7.com/is/image/Target/GUEST_db45c0a4-8114-4f90-baab-c867494e0077
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 11
+
+[%] Indexed 35 Images on Page 11.
+
+===============================================
+
+[%] Downloading Image #38 from https://www.furniturechoice.co.uk/p/m/LS10005034/LS10005034.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 12
+
+[%] Indexed 35 Images on Page 12.
+
+===============================================
+
+[%] Downloading Image #39 from https://moko.co.ke/wp-content/uploads/2022/09/HUM_8099.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://mysleepyhead.com/media/catalog/product/3/_/3_seater_sofa_2.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 13
+
+[%] Indexed 35 Images on Page 13.
+
+===============================================
+
+
+
+[!!]Indexing page: 14
+
+[%] Indexed 35 Images on Page 14.
+
+===============================================
+
+[%] Downloading Image #41 from https://i.pinimg.com/originals/f4/dc/e7/f4dce7552a79ecf0ec5f7d3507615367.png
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://img.edilportale.com/product-thumbs/2b_afina-3-seater-sofa-frezza-608007-rel6a6665b9.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 15
+
+[%] Indexed 35 Images on Page 15.
+
+===============================================
+
+[%] Downloading Image #43 from https://cdn11.bigcommerce.com/s-7vhg3hzp/images/stencil/3000x3000/l/manhattan-brasilia-teraz__31387.original.jpg
+[!] Issue getting: https://cdn11.bigcommerce.com/s-7vhg3hzp/images/stencil/3000x3000/l/manhattan-brasilia-teraz__31387.original.jpg
+[!] Error:: HTTP Error 404: Not Found
+
+
+[!!]Indexing page: 16
+
+[%] Indexed 35 Images on Page 16.
+
+===============================================
+
+[%] Downloading Image #43 from https://media.sketchfab.com/models/4a67316cf72f4ba8847f49a84cb881ae/thumbnails/82977edc070a4afbb284c137d19ba209/197ed235a0664b7c9e678a57fbfbdace.jpeg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 17
+
+[%] Indexed 35 Images on Page 17.
+
+===============================================
+
+
+
+[!!]Indexing page: 18
+
+[%] Indexed 35 Images on Page 18.
+
+===============================================
+
+[%] Downloading Image #44 from https://www.furniturechoice.co.uk/p/m/LS10007365/LS10007365.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 19
+
+[%] Indexed 35 Images on Page 19.
+
+===============================================
+
+[%] Downloading Image #45 from https://ii3.pepperfry.com/media/catalog/product/c/o/1600x800/colton-3-seater-sofa-in-multicolor-colour-by-evok-colton-3-seater-sofa-in-multicolor-colour-by-evok-qrx7jb.jpg
+[!] Issue getting: https://ii3.pepperfry.com/media/catalog/product/c/o/1600x800/colton-3-seater-sofa-in-multicolor-colour-by-evok-colton-3-seater-sofa-in-multicolor-colour-by-evok-qrx7jb.jpg
+[!] Error:: HTTP Error 403: Forbidden
+
+
+[!!]Indexing page: 20
+
+[%] Indexed 35 Images on Page 20.
+
+===============================================
+
+[%] Downloading Image #45 from https://i.pinimg.com/originals/bc/c6/93/bcc6930e1965baa72db29f3f8afb2800.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 21
+
+[%] Indexed 35 Images on Page 21.
+
+===============================================
+
+[%] Downloading Image #46 from https://www.meubles.ie/images/products/large/23354_283549.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 22
+
+[%] Indexed 35 Images on Page 22.
+
+===============================================
+
+[%] Downloading Image #47 from https://i.pinimg.com/originals/5f/1f/1b/5f1f1bd96123b064392a64f68ceb643e.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 23
+
+[%] Indexed 35 Images on Page 23.
+
+===============================================
+
+[%] Downloading Image #48 from https://www.furniturechoice.co.uk/p/m/FS10003225/FS10003225.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 24
+
+[%] Indexed 35 Images on Page 24.
+
+===============================================
+
+[%] Downloading Image #49 from https://d6qwfb5pdou4u.cloudfront.net/product-images/6560001-6570000/6560079/16565888270d6036d25090771feb159cea6b28ace3/1500-1500-frame-0.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 25
+
+[%] Indexed 35 Images on Page 25.
+
+===============================================
+
+[%] Downloading Image #50 from https://menterarchitects.com/wp-content/uploads/2017/09/cab-3-seater-sofatrue-design-inside-three-seater-sofas.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

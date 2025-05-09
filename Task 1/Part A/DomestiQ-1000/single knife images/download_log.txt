@@ -1,0 +1,359 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\single knife images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://thumbs.dreamstime.com/z/single-kitchen-knife-14294783.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://c8.alamy.com/comp/2JBH6G6/close-up-of-the-tip-of-a-single-knife-2JBH6G6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://wholesalechefknife.com/wp-content/uploads/2020/08/Single-Bevel-Knife.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://www.weapons-universe.com/lion-steel-lst9001ul-single-steak-knife.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://thumbs.dreamstime.com/z/single-knife-dark-background-closeup-photo-small-kitchen-plain-blue-66793689.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://media.istockphoto.com/id/912504804/photo/single-knife-against-white-background.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=buZkySuNFXL37ryXQB0lfvGso62MEVykqDen4Xv0-7k=
+[!] Issue getting: https://media.istockphoto.com/id/912504804/photo/single-knife-against-white-background.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=buZkySuNFXL37ryXQB0lfvGso62MEVykqDen4Xv0-7k=
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #6 from https://thumbs.dreamstime.com/b/single-knife-dark-background-closeup-photo-small-kitchen-plain-blue-66793689.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://img.freepik.com/premium-photo/single-knife-infront-view-closeup_145644-22560.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://img.freepik.com/premium-photo/single-knife-infront-view-closeup_145644-22561.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdn.shopify.com/s/files/1/0004/8893/1386/products/538578_2048x.jpg?v=1569181525
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://thumbs.dreamstime.com/b/single-knife-blue-handle-dark-background-single-knife-193556018.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://cdn.snowys.com.au/content/images/thumbs/1088914_sentinel-single-blade-knife.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://cdn.hdmdknives.com/wp-content/uploads/2022/05/What-is-single-bevel-knife-768x511.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://cdn-s3.touchofmodern.com/products/000/540/497/5690f49384242db8082ffc1de594a396_large.jpg?1476146898
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://thumbs.dreamstime.com/b/single-knife-11000842.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://cdn-s3.touchofmodern.com/products/000/540/505/1accb3ae10860a51c5dbd539c6d3127c_large.jpg?1476147023
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://i5.walmartimages.com/asr/4f631321-38ed-48b8-9693-94101f4756fe_1.ff5f4cfdfbc290046842bc6f06480327.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://cdn-s3.touchofmodern.com/products/000/644/881/8c9dc7f9c858bfd7909ae0709208e70b_large.jpg?1488397939
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://images-na.ssl-images-amazon.com/images/I/61qUIJp56EL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i.pinimg.com/originals/84/f7/f2/84f7f2690ff9546bbd94456e4e7765c7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i.etsystatic.com/17276369/r/il/fa05e1/3032715470/il_fullxfull.3032715470_oobt.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://wholesalechefknife.com/wp-content/uploads/2020/08/Single-Bevel-Sashimi-Knives.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://greatchefknives.com/wp-content/uploads/2016/11/single-recurve-knife.png
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://cdn.arizonacustomknives.com/images/products/orig/010129866730430720000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.kevinleathertools.com/u_file/2012/products/23/b93c9360b1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.etsystatic.com/9840690/r/il/896e6d/1606322041/il_fullxfull.1606322041_qxh4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://thumbs.dreamstime.com/z/single-knife-sheath-16606395.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://i.ytimg.com/vi/CWNGDFCHDNA/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://ae01.alicdn.com/kf/HTB1Bl2SKFXXXXaUXpXXq6xXFXXXs/Ceramic-blade-slicing-knife-5-inch-Zirconia-blade-ABS-TPR-handle-PP-sheath-superb-sharp-new.jpg
+[!] Issue getting: https://ae01.alicdn.com/kf/HTB1Bl2SKFXXXXaUXpXXq6xXFXXXs/Ceramic-blade-slicing-knife-5-inch-Zirconia-blade-ABS-TPR-handle-PP-sheath-superb-sharp-new.jpg
+[!] Error:: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+[%] Downloading Image #28 from https://www.schmidt.co.th/media/wysiwyg/SN-Images/SN-260838.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://images.ontheedgebrands.com/images/A17-GH0441.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://cdn.hdmdknives.com/wp-content/uploads/2021/12/slicing-with-single-bevel-knife.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://targetknives.com/wp-content/uploads/2022/09/Solo379-1-1024x566.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://blackwolfsupply.com/wp-content/uploads/2019/07/1F726D5C-5FB0-4BCA-9023-ADFD4B2C60F9.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://cdn.shopify.com/s/files/1/1828/9089/products/Knife_02_Ex_1024x.jpg?v=1489488705
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #34 from https://wholesalechefknife.com/wp-content/uploads/2020/08/Single-Bevel-Knife-928x928.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://cdn.gorillasurplus.com/images/products/large/SCHLS4.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #36 from https://i.etsystatic.com/9840690/r/il/c3d8ee/1461814424/il_fullxfull.1461814424_jyo3.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #37 from https://cdn.shopify.com/s/files/1/0656/0245/3725/collections/Untitled-1singleknive_1250x1250.jpg?v=1675202451
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #38 from https://www.chicagoknifeworks.com/wp-content/uploads/2019/05/LST9001UL.jpg
+[!] Issue getting: https://www.chicagoknifeworks.com/wp-content/uploads/2019/05/LST9001UL.jpg
+[!] Error:: HTTP Error 403: Forbidden
+
+
+[!!]Indexing page: 7
+
+[%] Indexed 35 Images on Page 7.
+
+===============================================
+
+[%] Downloading Image #38 from https://i.etsystatic.com/9840690/r/il/063103/1461814930/il_fullxfull.1461814930_nbh6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://oarmenis.gr/wp-content/uploads/2021/06/PSFix_20210618_192911.jpg
+[!] Issue getting: https://oarmenis.gr/wp-content/uploads/2021/06/PSFix_20210618_192911.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+
+
+[!!]Indexing page: 8
+
+[%] Indexed 35 Images on Page 8.
+
+===============================================
+
+
+
+[!!]Indexing page: 9
+
+[%] Indexed 35 Images on Page 9.
+
+===============================================
+
+[%] Downloading Image #39 from https://thumbs.dreamstime.com/z/single-knife-11000842.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://cdn.hdmdknives.com/wp-content/uploads/2022/05/What-is-single-bevel-knife.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 10
+
+[%] Indexed 35 Images on Page 10.
+
+===============================================
+
+
+
+[!!]Indexing page: 11
+
+[%] Indexed 35 Images on Page 11.
+
+===============================================
+
+
+
+[!!]Indexing page: 12
+
+[%] Indexed 35 Images on Page 12.
+
+===============================================
+
+[%] Downloading Image #41 from https://i.etsystatic.com/10393608/r/il/b20a6c/1757266066/il_fullxfull.1757266066_tjxf.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 13
+
+[%] Indexed 35 Images on Page 13.
+
+===============================================
+
+[%] Downloading Image #42 from https://i.pinimg.com/736x/e9/cf/b5/e9cfb520a3b5cf37ba18aae6706d4a5d--edc-knife-paring-knives.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://c8.alamy.com/comp/2K52MEE/putty-knives-with-wooden-handles-closeup-a-new-metallic-putty-knife-isolated-on-white-background-single-knife-with-black-red-rubber-grip-2K52MEE.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 14
+
+[%] Indexed 35 Images on Page 14.
+
+===============================================
+
+[%] Downloading Image #44 from https://m.media-amazon.com/images/I/41Y7gz5avRL._SL500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://cdn.shopify.com/s/files/1/1021/5717/products/DSC8902_new.jpg?v=1527176961
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 15
+
+[%] Indexed 35 Images on Page 15.
+
+===============================================
+
+
+
+[!!]Indexing page: 16
+
+[%] Indexed 35 Images on Page 16.
+
+===============================================
+
+
+
+[!!]Indexing page: 17
+
+[%] Indexed 35 Images on Page 17.
+
+===============================================
+
+[%] Downloading Image #46 from https://get.pxhere.com/photo/utensil-sharp-tool-cooking-weapon-tableware-knife-cut-blade-propeller-sharp-knife-kitchen-knife-cold-weapon-bowie-knife-hunting-knife-melee-weapon-throwing-knife-1325334.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 18
+
+[%] Indexed 35 Images on Page 18.
+
+===============================================
+
+[%] Downloading Image #47 from http://www.harrysarmysurplus.net/assets/images/selfdefensesupply/sb7302se_1.jpg
+[!] Issue getting: http://www.harrysarmysurplus.net/assets/images/selfdefensesupply/sb7302se_1.jpg
+[!] Error:: HTTP Error 404: Not Found
+
+
+[!!]Indexing page: 19
+
+[%] Indexed 35 Images on Page 19.
+
+===============================================
+
+[%] Downloading Image #47 from https://cdn.shopify.com/s/files/1/0445/1365/6985/products/product_single_chef_cutboard_1750.jpg?v=1600359491
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 20
+
+[%] Indexed 35 Images on Page 20.
+
+===============================================
+
+[%] Downloading Image #48 from https://assets.katogroup.eu/i/katogroup/TK-SZEX-01_03_topsknives
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 21
+
+[%] Indexed 35 Images on Page 21.
+
+===============================================
+
+[%] Downloading Image #49 from http://www.knifecountryusa.com/store/image/products/magnified/198453_198482.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 22
+
+[%] Indexed 35 Images on Page 22.
+
+===============================================
+
+[%] Downloading Image #50 from https://www.techsteel.net/wp-content/uploads/2014/06/knife.jpg
+[Error]Invalid image, not saving https://www.techsteel.net/wp-content/uploads/2014/06/knife.jpg
+
+[!] Issue getting: https://www.techsteel.net/wp-content/uploads/2014/06/knife.jpg
+[!] Error:: Invalid image, not saving https://www.techsteel.net/wp-content/uploads/2014/06/knife.jpg
+
+
+
+[!!]Indexing page: 23
+
+[%] Indexed 35 Images on Page 23.
+
+===============================================
+
+[%] Downloading Image #50 from http://www.soonerstateknives.com/BR-277-Browning-Pocket-Knife.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

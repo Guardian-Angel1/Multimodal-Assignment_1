@@ -1,0 +1,232 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\photo frames single images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://png.pngtree.com/png-clipart/20191121/ourmid/pngtree-red-modern-photo-frame-png-image_1991043.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://personalizedgift.in/wp-content/uploads/2021/03/photo-mosaic-frame-for-wedding.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.hugosworkshop.co.uk/image/hwjune2020-36.jpg?size=1600&amp;constrain=a&amp;quality=90
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://www.potterybarn.com.au/core/media/media.nl?id=19583844&amp;c=3572911&amp;h=3f4012d8c33c8e4cd751&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[Error]Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=19583844&amp;c=3572911&amp;h=3f4012d8c33c8e4cd751&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[!] Issue getting: http://www.potterybarn.com.au/core/media/media.nl?id=19583844&amp;c=3572911&amp;h=3f4012d8c33c8e4cd751&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[!] Error:: Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=19583844&amp;c=3572911&amp;h=3f4012d8c33c8e4cd751&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[%] Downloading Image #4 from https://www.fotofactorygifts.com/wp-content/uploads/2021/05/02-49.jpg
+[!] Issue getting: https://www.fotofactorygifts.com/wp-content/uploads/2021/05/02-49.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #4 from https://m.media-amazon.com/images/I/81vUnm+duxL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://ii1.pepperfry.com/media/catalog/product/e/l/800x880/elegant-arts---frames-p-350-d-wedding-series-photo-frame-20-x-16-square-design-elegant-arts---frames-4uurki.jpg
+[!] Issue getting: https://ii1.pepperfry.com/media/catalog/product/e/l/800x880/elegant-arts---frames-p-350-d-wedding-series-photo-frame-20-x-16-square-design-elegant-arts---frames-4uurki.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #5 from https://images.woodenstreet.de/image/cache/data/random/white-wooden-single-photo-frame/R-1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.shutterstock.com/shutterstock/photos/518900020/display_1500/stock-photo-single-blank-golden-baroque-picture-frames-on-rough-concrete-wall-background-518900020.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://assetscdn1.paytm.com/images/catalog/product/H/HO/HOMCRAZY-SUTRA-GEEK30070B3D3F862/1564122576624_0..jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://images.woodenstreet.de/image/cache/data/acn-quote/madrid-photo-frame/1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.photech.co.uk/wp-content/uploads/2023/03/single-image-7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://images.woodenstreet.de/image/cache/data/Yatha/Golden+/brown-table-photo-frame/GP-1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://images.woodenstreet.de/image/cache/data/home-decors/photo-frames/artisa-cyan-photo-frame/updated/1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://www.shipraamit.com/wp-content/uploads/2018/10/Single-Frame-Collage-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from http://www.potterybarn.com.au/core/media/media.nl?id=57392682&amp;c=3572911&amp;h=e97504f793ed98a9df21&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[Error]Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=57392682&amp;c=3572911&amp;h=e97504f793ed98a9df21&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[!] Issue getting: http://www.potterybarn.com.au/core/media/media.nl?id=57392682&amp;c=3572911&amp;h=e97504f793ed98a9df21&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[!] Error:: Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=57392682&amp;c=3572911&amp;h=e97504f793ed98a9df21&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[%] Downloading Image #13 from https://images.woodenstreet.de/image/cache/data/home-decors/photo-frames/artisa-canary-photo-frame/updated/1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://img3.exportersindia.com/product_images/bc-full/2020/12/6253218/1608623129_p_5445723_1116026.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://images.woodenstreet.de/image/cache/data/craft-store/white-colour-decorative-single-big-and-small-table-photo-frames-set-of-2/front-408x408.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from http://woodlandframes.com/wp-content/uploads/AHF200503-510x510.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://static.connect2india.com/c2icd/product_resources/images/single-photo-frames.jpg
+[!] Issue getting: https://static.connect2india.com/c2icd/product_resources/images/single-photo-frames.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+[%] Downloading Image #17 from https://ii1.pepperfry.com/media/catalog/product/c/l/1100x1210/classic-4x6-single-frame-table-photo-frame-by-clasicraft-classic-4x6-single-frame-table-photo-frame--vxfx93.jpg
+[!] Issue getting: https://ii1.pepperfry.com/media/catalog/product/c/l/1100x1210/classic-4x6-single-frame-table-photo-frame-by-clasicraft-classic-4x6-single-frame-table-photo-frame--vxfx93.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #17 from https://images.woodenstreet.de/image/cache/data/Yatha/pink-4-6-inch-square-shape-single-table-photo-frame/front-408x408.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://2.wlimg.com/product_images/bc-full/2020/12/6253218/1608623138_p_5445723_1116027.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://images.woodenstreet.de/image/cache/data/1606823265single+photo+frame+online-max-337.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://images-na.ssl-images-amazon.com/images/I/81bMc7typ2L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://visualhunt.com/photos/15/black-manufactured-wood-single-picture-frame.jpeg?s=art
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://2.imimg.com/data2/BQ/BS/MY-/single-photo-frames-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://media1.popsugar-assets.com/files/thumbor/onAxDDstYRC8bPnPG4xr_TtO3ow/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/10/23/998/n/1922441/d6cde9a8af872a71_netimgnCK6tV/i/Thin-Single-Picture-Frame.webp
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.seekpng.com/png/detail/42-422350_photoshop-frames-single-photo-frames-for-photoshop-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.hugosworkshop.co.uk/image/hwjune2020-31.jpg?size=1600&amp;constrain=a&amp;quality=90
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://images.woodenstreet.de/image/cache/data/Yatha/blue-8-8-inch-square-shape-single-wall-hanging-photo-frame/front-408x408.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.hugosworkshop.co.uk/image/hwjune2020-21.jpg?size=1200&amp;constrain=a&amp;quality=80
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://www.framinghouse.in/img/gallery/fhwmc003/1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.decorchamp.com/wp-content/uploads/2024/01/Single-Photo-Frame-ideas.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #30 from https://cdn.pixabay.com/photo/2020/06/23/18/36/frames-5333394_1280.png
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://images.woodenstreet.de/image/cache/data/random/white-wooden-single-photo-frame/R-1-810x702.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://images.woodenstreet.de/image/cache/data/photo-frames-ws/zane-floral-multi-coloured-mdf-wood-photo-frame/1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://imgshopimages.lbb.in/catalog/product/i/m/img_2040_2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://images.woodenstreet.de/image/cache/data/Yatha/Golden+/gold-toned-brown-table-photo-frames/GP-1-750x650.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.hugosworkshop.co.uk/image/hwjune2020-2.jpg?size=1600&amp;constrain=a&amp;quality=90
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://img3.exportersindia.com/product_images/bc-full/2020/12/6253218/single-photo-frames-1608622949-5445723.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://files.ekmcdn.com/b60952/images/oak-frames-30mm-wide-frame-size-internal-a5-148mm-x-210mm-(2)-4335-p.jpg?v=7102022-133416
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://kingfisher.scene7.com/is/image/Kingfisher/5023076006788_01c
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://images.woodenstreet.de/image/cache/data/Yatha/blue-5-7-inch-rectangle-shape-single-photo-frame/front-408x408.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://memorablegifts.in/wp-content/uploads/2020/01/61.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.photojaanic.com/blog/wp-content/uploads/sites/2/2021/08/WallPhotoFrame_Collage.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from http://www.potterybarn.com.au/core/media/media.nl?id=57392683&amp;c=3572911&amp;h=2a9dbe9437652db9f8bd&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[Error]Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=57392683&amp;c=3572911&amp;h=2a9dbe9437652db9f8bd&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[!] Issue getting: http://www.potterybarn.com.au/core/media/media.nl?id=57392683&amp;c=3572911&amp;h=2a9dbe9437652db9f8bd&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+[!] Error:: Invalid image, not saving http://www.potterybarn.com.au/core/media/media.nl?id=57392683&amp;c=3572911&amp;h=2a9dbe9437652db9f8bd&amp;resizeid=4&amp;resizeh=1200&amp;resizew=1200
+
+[%] Downloading Image #42 from https://kingfisher.scene7.com/is/image/Kingfisher/3663602049708_02c_bq
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://frametastic.net/cms/asset/d05afdaaef348819f6d2ec71d370232f.png
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://frametastic.net/cms/thumb/699b7bd64b78907169d14c3504ba3421.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://fallwoodcrafts.com/wp-content/uploads/2015/05/single-frames.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from http://st.houzz.com/simgs/7d91a07c0e82805f_4-9068/modern-picture-frames.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://images.woodenstreet.de/image/cache/data/Yatha/dark-blue-square-shape-wall-photo-frame/front-408x408.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #48 from https://images.woodenstreet.de/image/cache/data/1606822940single+photo+frame+online-max-337.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #49 from https://images.woodenstreet.de/image/cache/data/home-decors/photo-frames/golden-victorian-style-with-floral-motif-in-metal-photo-frames-handicrafts-paradise/updated/1-750x650.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #50 from https://www.hugosworkshop.co.uk/image/hwjune2020-3.jpg?size=1600&amp;constrain=a&amp;quality=90
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

@@ -1,0 +1,174 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\motorcycle helmet images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://media.richmondhondahouse.com/wp-content/uploads/2020/04/25145742/0810-1233-03.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://cdn.shopify.com/s/files/1/1024/0265/products/91PgFpy1XDL.jpg?v=1577569018
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://images-na.ssl-images-amazon.com/images/I/913WzIO8jNL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://i5.walmartimages.com/asr/386f67b2-006f-4dd6-8685-b7e06b986bd4_1.bad2fbeb98f8292dc612f2d9ba50c6a0.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://badasshelmetstore.com/wp-content/uploads/2014/10/81HFyJpsNCL._SL1500_-1400x1489.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://pngimg.com/uploads/motorcycle_helmets/motorcycle_helmets_PNG9656.png
+[!] Issue getting: https://pngimg.com/uploads/motorcycle_helmets/motorcycle_helmets_PNG9656.png
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #6 from http://www.andysowards.com/blog/assets/Ghost-2-motorcycle-helmet-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://badasshelmetstore.com/wp-content/uploads/2014/10/71sIdB07KeL._SL1500_-1400x1495.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://wallpaperaccess.com/full/6332081.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://media.richmondhondahouse.com/wp-content/uploads/2020/04/25150537/0844-1331-03.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://i.ebayimg.com/00/s/MTU0NVgxNTAw/z/BAcAAOSwmuBfSVpd/$_57.JPG?set_id=8800005007
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://cdn11.bigcommerce.com/s-sfoxy4qm75/images/stencil/1280x1280/products/8797/72956/1521773__79815.1666704008.jpg?c=2
+[!] Issue getting: https://cdn11.bigcommerce.com/s-sfoxy4qm75/images/stencil/1280x1280/products/8797/72956/1521773__79815.1666704008.jpg?c=2
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #11 from https://images-na.ssl-images-amazon.com/images/I/81okx8ZwAwL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://images.esellerpro.com/2189/I/602/725/26260-Icon-Airflite-Raceflite-Motorcycle-Helmet-And-Visor-1200-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://images.esellerpro.com/2189/I/427/675/22902-Bell-Qualifier-DLX-MIPS-Solid-Motorcycle-Helmet-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from http://images.esellerpro.com/2189/I/442/928/23131-LS2-OF569-Track-Solid-Open-Face-Motorcycle-Helmet-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://images.esellerpro.com/2189/I/419/110/22667-Shoei-NXR-Flagger-Motorcycle-Helmet-Visor-1600--0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://images.esellerpro.com/2189/I/614/050/26539-Icon-Airflite-Crosslink-Motorbike-Helmet-And-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from http://images.esellerpro.com/2189/I/105/304/10128-Shox-Assault-Motorcycle-Helmet-Black-1600-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://images.esellerpro.com/2189/I/427/675/22866-Bell-Qualifier-DLX-MIPS-Solid-Motorcycle-Helmet-Matte-Black-1600-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i5.walmartimages.com/asr/1646d442-e8ff-459d-a3f3-6e83e05df4ee_1.d45eeb2ab25854e0fcb9a425c2e01d3d.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://images.esellerpro.com/2189/I/438/747/23070-HJC-FG-ST-Crono-Motorcycle-Helmet-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from http://images.esellerpro.com/2189/I/451/880/14447-Caberg-Ghost-Matt-Black-Open-Face-Motorcycle-Helmet-_-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from http://images.esellerpro.com/2189/I/452/295/14459-Caberg-Ghost-Open-Face-Motorcycle-Helmet-_-Visor-Kit-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://images.esellerpro.com/2189/I/238/438/TS-80-Plain-Motorcycle-Sun-Visor-Helmet-Matt-Black-1600-4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://images.esellerpro.com/2189/I/442/406/23018-LS2-OF562-Airflow-L-Solid-Open-Face-Motorcycle-Helmet-Matt-Military-Green-1600-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://images.esellerpro.com/2189/I/311/847/13229-Black-Optimus-SV-Motorbike-Helmet-1-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://images.esellerpro.com/2189/I/342/687/21528-Shoei-J.O-Hawker-Open-Face-Motorbike-Helmet-_-Visor--1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://images.esellerpro.com/2189/I/452/357/14460-Caberg-Ghost-Legend-Open-Face-Motorcycle-Helmet-And-Visor-Kit-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://images.esellerpro.com/2189/I/398/015/22025-MT-Blade-SV-Raceline-Motorcycle-Helmet-Visor-1600-0-v2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://images.esellerpro.com/2189/I/424/672/22805-Shark-Ridill-Blank-Motorbike-Helmet-Visor-1000-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from http://images.esellerpro.com/2189/I/405/588/22350-Bell-Race-Star-Solid-Motorbike-Helmet-Visor-1600-0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://images.esellerpro.com/2189/I/342/606/21527-Shoei-J.O-Open-Face-Motorbike-Helmet-_-Visor-1600--0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://ocdtronic.com/wp-content/uploads/imported/INNOVV-H5-Motorcycle-Helmet-Camera-with-Portable-Power-Interface-B0B5GTSWTD-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://pictures.topspeed.com/IMG/crop/202103/best-motorcycle-helm-2-3_1600x0w.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://improb.com/wp-content/uploads/2019/02/best-motorcycle-helmet-cameras.jpg
+[Error]Invalid image, not saving https://improb.com/wp-content/uploads/2019/02/best-motorcycle-helmet-cameras.jpg
+
+[!] Issue getting: https://improb.com/wp-content/uploads/2019/02/best-motorcycle-helmet-cameras.jpg
+[!] Error:: Invalid image, not saving https://improb.com/wp-content/uploads/2019/02/best-motorcycle-helmet-cameras.jpg
+
+[%] Downloading Image #34 from https://assets.newatlas.com/dims4/default/5de63a2/2147483647/strip/true/crop/1080x1080+0+0/resize/1080x1080!/quality/90/?url=http:%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fzona-motorcycle-helmet-rear-view-camera-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://odditymall.com/includes/content/upload/cross-helmet-motorcycle-helmet-with-rear-view-camera-9568.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://assets.newatlas.com/dims4/default/2c98f3b/2147483647/strip/true/crop/1080x1080+0+0/resize/960x960!/quality/90/?url=http:%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fbrgintegratedcamera-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://stationarieszone.co.uk/wedding/GBO/Midwest/SCSBTINTERCOMWCAM-20.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://s1.cdn.autoevolution.com/images/news/fusar-introduces-the-mohawk-and-brc-helmet-cam-system-101394_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://cdn.ecommercedns.uk/files/6/228866/6/22155956/dc1-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://badasshelmetstore.com/wp-content/uploads/2014/02/go-pro-motorcycle-helmets.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from http://www.bikesrepublic.com/wp-content/uploads/2016/01/010716top-i.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.gearhungry.com/wp-content/uploads/2022/06/motorcycle-helmet-camera-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://i.ytimg.com/vi/SVRd4jTrnpg/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.driva.com.au/static/99b93327f3290c6460cb1ceeec74af38/9b469/c42e2e45-b6f7-4f47-bd95-6fa3f5c6f28e_3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://pictures.topspeed.com/IMG/crop/202103/best-motorcycle-helm-7_1600x0w.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i.ytimg.com/vi/_My7rx4jPmA/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://images.honestjohn.co.uk/imagecache/file/crop/1000x660/media-kit/6832/nextbase-ride-motorcycle-dvr-action-camera.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.teamstertnc.org/wp-content/uploads/2021/03/cam-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.ytimg.com/vi/0KDN67wJBs0/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://nextluxury.com/wp-content/uploads/rider-with-camera-of-his-head.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

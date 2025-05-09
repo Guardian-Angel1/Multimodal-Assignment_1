@@ -1,0 +1,177 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\ceiling fan 3 blade images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images-na.ssl-images-amazon.com/images/I/71FFtjYC%2BCL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.fastener.com.sg/images/thumbnails/3600/3600/detailed/5/KDK_3_BLADE_CEILING_FAN_150CM_M60SG-BK_(BLACK).jpg
+[!] Issue getting: https://www.fastener.com.sg/images/thumbnails/3600/3600/detailed/5/KDK_3_BLADE_CEILING_FAN_150CM_M60SG-BK_(BLACK).jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #2 from https://secure.img1-fg.wfcdn.com/im/06378987/resize-h800-w800^compr-r85/1233/123315447/52%2522+Cairo+3+-+Blade+LED+Propeller+Ceiling+Fan+with+Remote+Control+and+Light+Kit+Included.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://secure.img1-fg.wfcdn.com/im/97829036/resize-h800-w800^compr-r85/5775/57758407/52%2522+Eloise+3+-+Blade+LED+Propeller+Ceiling+Fan+with+Remote+Control+and+Light+Kit+Included.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://secure.img1-fg.wfcdn.com/im/80315744/compr-r85/6295/62958347/84-timber-3-blade-led-propeller-ceiling-fan-with-remote-control-and-light-kit-included.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://i5.walmartimages.com/asr/16d4aead-d398-45db-805b-723ae8481a35.c5e9e66b42c4c2698108d505b03f8f29.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://cdn-s3.touchofmodern.com/products/001/842/590/a11c8706b76fda51d97c2cbc6b88c192_large.jpg?1588106703
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.fastener.com.sg/images/thumbnails/1000/1000/detailed/5/KDK_3_BLADE_CEILING_FAN_150CM,_M60SG_(WHITE).jpg
+[!] Issue getting: https://www.fastener.com.sg/images/thumbnails/1000/1000/detailed/5/KDK_3_BLADE_CEILING_FAN_150CM,_M60SG_(WHITE).jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #7 from https://secure.img.wfrcdn.com/lf/maxsquare/hash/691/27025650/1/52-Discus-Trio-3-Blade-Ceiling-Fan-with-Hand-Held-Remote-3DIR52D.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://assets.wfcdn.com/im/91306156/compr-r85/2207/220781400/antinisha-60-3-blade-reversible-led-ceiling-fan-with-remote-control-and-light-kit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://m.media-amazon.com/images/I/71OLFCd4l8L.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://secure.img1.wfcdn.com/lf/maxsquare/hash/3137/28996807/1/Hunter-Fan-48-Leoni-3-Blade-Ceiling-Fan-with-Remote-and-Light.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://mobileimages.lowes.com/productimages/0609dfca-ec31-4182-a635-398c2be42dcd/61093453.jpg?size=pdhism
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://i5.walmartimages.com/asr/bf4c346e-20e8-48d0-a879-b3eb4ae3e5bb.650022dd9924b01b5fcfbb3fa83b978b.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://i5.walmartimages.com/asr/9a33c882-e15e-406b-901c-65f1428fa54a.7361a1f4694715059e53a8d1d871d24d.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i5.walmartimages.com/asr/f454a37d-b437-4510-bb23-3dea928f55e6_1.fe32bad5a27ebd6fa1996635045b03fe.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.ikea.com/us/en/images/products/molnighet-3-blade-ceiling-fan-plastic-white__0742633_pe742745_s5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://images.thdstatic.com/productImages/be6ba415-cbea-4850-a48c-5f4552fc011a/svn/matte-white-w-3000k-led-modern-forms-ceiling-fans-with-lights-fr-w1803-52l-mw-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://db1736767dbd5e7094bb-d61bbc5d0b342a54145a236e2d5d1ebf.ssl.cf4.rackcdn.com/Product-800x800/4fef9dfe-d622-4398-b1e4-a59baaf16a21.png
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://homedepot.scene7.com/is/image/homedepotcanada/p_1001187103.jpg?wid=1000&amp;hei=1000&amp;op_sharpen=1
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://media.croma.com/image/upload/v1680781049/Croma Assets/Small Appliances/Fans/Images/271423_bur6ly.png
+[!] Issue getting: https://media.croma.com/image/upload/v1680781049/Croma Assets/Small Appliances/Fans/Images/271423_bur6ly.png
+[!] Error:: URL can't contain control characters. '/image/upload/v1680781049/Croma Assets/Small Appliances/Fans/Images/271423_bur6ly.png' (found at least ' ')
+[%] Downloading Image #19 from https://amazetek.com.cn/wp-content/uploads/2023/08/1692149331687.png
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.georgee.in/wp-content/uploads/2019/12/Audie-mirage-white-1400mm-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://cdn.ukelectricalsupplies.com/product-images/50763/fantasia-115202-atom-42-inch-remote-control-white-3-blade-ceiling-fan-with-white-acrylic-blades-1-large.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.georgee.in/wp-content/uploads/2019/12/Audie-600mm-mirage-white-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://ene2u.com/image/ene2u/image/cache/data/all_product_images/product-133/KDK K15V0 ENE 1-800x800.jpg
+[!] Issue getting: https://ene2u.com/image/ene2u/image/cache/data/all_product_images/product-133/KDK K15V0 ENE 1-800x800.jpg
+[!] Error:: URL can't contain control characters. '/image/ene2u/image/cache/data/all_product_images/product-133/KDK K15V0 ENE 1-800x800.jpg' (found at least ' ')
+[%] Downloading Image #23 from https://shivlok.co.in/wp-content/uploads/2021/09/825-SUNGOLD-POPULAR-PLAIN-WHITE-1200-MM-3-BLADE-CEILING-FAN-WHITE-PACK-OF-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://media.croma.com/image/upload/v1669271515/Croma Assets/Small Appliances/Fans/Images/265749_e0xwez.png
+[!] Issue getting: https://media.croma.com/image/upload/v1669271515/Croma Assets/Small Appliances/Fans/Images/265749_e0xwez.png
+[!] Error:: URL can't contain control characters. '/image/upload/v1669271515/Croma Assets/Small Appliances/Fans/Images/265749_e0xwez.png' (found at least ' ')
+[%] Downloading Image #24 from https://www.thelightingsuperstore.co.uk/images/fs/5/portsea-matt-white-3-blade-ceiling-fan-35107-5937.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://a365.acdc.co.za/Images/acdc-web-images/ima1/FD2-WHITE.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://5.imimg.com/data5/SELLER/Default/2023/10/355707142/OG/TD/GX/59786438/3-blade-white-ceiling-fan-1000x1000.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://m.media-amazon.com/images/I/41Bpf+T0FJL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://m.media-amazon.com/images/I/713e9g-T5FL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://images-na.ssl-images-amazon.com/images/I/71pqd1sIjUL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.thefanstudio.com/TheFanStudioImages/ProductImages/modern-collection-004-2-the-fan-studio-admin.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://m.media-amazon.com/images/I/71+kyAd5h-L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://m.media-amazon.com/images/I/81Tz-DKLhyL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://m.media-amazon.com/images/I/71K13ia3IgL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://i.pinimg.com/originals/62/5d/61/625d6115a15af8eda656f82a20d39ddd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://ak1.ostkcdn.com/images/products/is/images/direct/593bc923a18cb9d14ecb60955a7702ca8d68f0b1/52\
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://m.media-amazon.com/images/I/71BSs+ficYL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://m.media-amazon.com/images/I/71C1QrQylOL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://m.media-amazon.com/images/I/71lZuBS3UbL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://m.media-amazon.com/images/I/513fR1SIzgL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://mobileimages.lowes.com/productimages/53d842ec-a09c-4072-a24d-551899d94716/50079213.jpg?size=pdhism
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://m.media-amazon.com/images/S/aplus-media-library-service-media/07a5766f-8836-4661-aab4-2e4a278df892.__CR0,0,1464,600_PT0_SX1464_V1___.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://secure.img1-fg.wfcdn.com/im/73788748/resize-h700-w700^compr-r85/5775/57758407/52%2522+Eloise+3+-+Blade+LED+Propeller+Ceiling+Fan+with+Remote+Control+and+Light+Kit+Included.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://mobileimages.lowes.com/productimages/a549ceb3-0c27-4076-8d5c-8d8088372a56/40950632.jpg?size=pdhism
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://images.homedepot-static.com/productImages/5b473c2d-1b73-4d6d-927e-11bfabf3ba3f/svn/brushed-nickel-progress-lighting-ceiling-fans-with-lights-p250002-009-30-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.destinationlighting.com/images/products_zoom/163/P1695163.bg~zoom.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i5.walmartimages.com/asr/fd72b9ee-ec2a-45f3-9612-683e3c17d98b.4f4b6e5931d303baa6f6a29a33ecfb82.gif?odnWidth=612&amp;odnHeight=612&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://mobileimages.lowes.com/product/converted/783927/783927521406.jpg?size=pdhi
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://mobileimages.lowes.com/product/converted/080629/080629167971.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://mobileimages.lowes.com/productimages/c5493709-cd8b-4805-b99e-82b26b7eb5e2/46331981.png?size=pdhism
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://mobileimages.lowes.com/product/converted/840506/840506072824.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

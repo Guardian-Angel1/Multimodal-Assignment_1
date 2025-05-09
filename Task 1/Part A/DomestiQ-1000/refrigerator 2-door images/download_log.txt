@@ -1,0 +1,183 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\refrigerator 2-door images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://sg.sharp/sites/default/files/2019-11/highcompress-47LR_pci_01 (Silver).jpg
+[!] Issue getting: https://sg.sharp/sites/default/files/2019-11/highcompress-47LR_pci_01 (Silver).jpg
+[!] Error:: URL can't contain control characters. '/sites/default/files/2019-11/highcompress-47LR_pci_01 (Silver).jpg' (found at least ' ')
+[%] Downloading Image #1 from https://dygtyjqp7pi0m.cloudfront.net/i/36149/32568818_1.jpg?v=8D694415B193E70
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://ansons.ph/wp-content/uploads/2013/10/RT20FARVDSA_2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://dygtyjqp7pi0m.cloudfront.net/i/36149/32569010_1.jpg?v=8D6945541C71140
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://images.thdstatic.com/productImages/6107632c-e09d-411e-82e5-049e7cf549b4/svn/stainless-steel-koolmore-commercial-refrigerators-rir-2d-ss-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://res3.grays.com/handlers/imagehandler.ashx?t=sh&amp;id=4043398&amp;s=d&amp;index=0&amp;ts=635181782807170000
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.cebuappliancecenter.com/wp-content/uploads/2019/12/nrbp230vs-1534x2048.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://media.karousell.com/media/photos/products/2020/6/29/brand_new_lg_72cuft_twodoor_no_1593392706_60018e6e.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://i5.walmartimages.com/asr/511d08c0-9e30-42f6-b9fe-f31ca670c5bf_1.9d8251a465d9f6c6869ca638dcb0d9cb.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.ph.sharp/sites/default/files/styles/resize_640x640/public/uploads/products/SJ_ML70AS_SL/SJ-ML70AS-SL_A.jpg?itok=yvNMoTQH
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://cairosales.com/70471-thickbox_default/sharp-refrigerator-2-door-450-litre-no-frost-stainless-color-with-digital-screen-sj-pv58g-st.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://i5.walmartimages.com/seo/3-5cu-ft-Compact-Refrigerator-Mini-Fridge-with-Freezer-Krib-Bling-Small-Refrigerator-with-2-Door_0890787a-3dee-4282-a00a-117a0331b8dd.20f6eeb52132da4ebf25d883727b7c69.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://dygtyjqp7pi0m.cloudfront.net/i/30807/26973953_1.jpg?v=8D4793576BFEE40
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.lg.com/in/images/refrigerators/md06236076/gallery/B08_GL-S292RPZY-Refrigerators-Right-View-MZ-08.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://m.media-amazon.com/images/I/61NlI6LB6WL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://dygtyjqp7pi0m.cloudfront.net/i/36149/32569009_2.jpg?v=8D69454F555ABA0
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://dam.thdstatic.com/content/production/n7hutcSc3yKMGCx6Gl_FpA/Xk7GjWwbGczU01jP0k4P2w/Original file/how-to-measure-a-refrigerator-step-2.jpg
+[!] Issue getting: https://dam.thdstatic.com/content/production/n7hutcSc3yKMGCx6Gl_FpA/Xk7GjWwbGczU01jP0k4P2w/Original file/how-to-measure-a-refrigerator-step-2.jpg
+[!] Error:: URL can't contain control characters. '/content/production/n7hutcSc3yKMGCx6Gl_FpA/Xk7GjWwbGczU01jP0k4P2w/Original file/how-to-measure-a-refrigerator-step-2.jpg' (found at least ' ')
+[%] Downloading Image #16 from https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/maytag/en-us/marketing-content/site-assets/page-content/oc-articles/guide-to-refrigerator-sizes-dimensions/guide-to-refrigerator-sizes-dimensions_styles2.png?fmt=png-alpha&amp;qlt=85,0&amp;resMode=sharp2&amp;op_usm=1.75,0.3,2,0&amp;scl=1&amp;constrain=fit,1
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://designingidea.com/wp-content/uploads/2020/05/standard-refrigerator-dimensions-2020.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/maytag/en-us/marketing-content/site-assets/page-content/oc-articles/guide-to-refrigerator-sizes-dimensions/guide-to-refrigerator-sizes-dimensions_styles1.png?fmt=png-alpha&amp;qlt=85,0&amp;resMode=sharp2&amp;op_usm=1.75,0.3,2,0&amp;scl=1&amp;constrain=fit,1
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://cdn.shopify.com/s/files/1/1367/0857/files/Dimensions-MLR725.png?v=1587823651
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://global-uploads.webflow.com/5b44edefca321a1e2d0c2aa6/5c1ad86531b7987cb55735f6_Dimensions-Guide-Fixtures-Refrigerators-Three-Door-Dimensions.svg
+[Error]Invalid image, not saving https://global-uploads.webflow.com/5b44edefca321a1e2d0c2aa6/5c1ad86531b7987cb55735f6_Dimensions-Guide-Fixtures-Refrigerators-Three-Door-Dimensions.svg
+
+[!] Issue getting: https://global-uploads.webflow.com/5b44edefca321a1e2d0c2aa6/5c1ad86531b7987cb55735f6_Dimensions-Guide-Fixtures-Refrigerators-Three-Door-Dimensions.svg
+[!] Error:: Invalid image, not saving https://global-uploads.webflow.com/5b44edefca321a1e2d0c2aa6/5c1ad86531b7987cb55735f6_Dimensions-Guide-Fixtures-Refrigerators-Three-Door-Dimensions.svg
+
+[%] Downloading Image #20 from https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/maytag/en-us/marketing-content/site-assets/page-content/oc-articles/guide-to-refrigerator-sizes-dimensions/guide-to-refrigerator-sizes-dimensions_IMG1-2.jpg?fit=constrain&amp;fmt=jpg&amp;wid=2875
+[!] Issue getting: https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/maytag/en-us/marketing-content/site-assets/page-content/oc-articles/guide-to-refrigerator-sizes-dimensions/guide-to-refrigerator-sizes-dimensions_IMG1-2.jpg?fit=constrain&amp;fmt=jpg&amp;wid=2875
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #20 from https://www.whirlpool.com/is/image/content/dam/business-unit/whirlpoolv2/en-us/marketing-content/site-assets/page-content/oc-articles/guide-to-refrigerator-sizes-dimensions/guide-to-refrigerator-sizes-dimensions_IMG3.jpg?fmt=png-alpha&amp;qlt=85,0&amp;resMode=sharp2&amp;op_usm=1.75,0.3,2,0&amp;scl=1&amp;constrain=fit,1
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://dimensionsguide.s3.amazonaws.com/06-FIXTURES/REFRIGERATORS/FRIGIDAIRE-TOP-FREEZER-REFRIGERATOR-18-CU-FT/Dimensions-Fixtures-Refrigerators-Frigidaire-Top-Freezer-Refrigerator-18-Cu-Ft.svg
+[Error]Invalid image, not saving https://dimensionsguide.s3.amazonaws.com/06-FIXTURES/REFRIGERATORS/FRIGIDAIRE-TOP-FREEZER-REFRIGERATOR-18-CU-FT/Dimensions-Fixtures-Refrigerators-Frigidaire-Top-Freezer-Refrigerator-18-Cu-Ft.svg
+
+[!] Issue getting: https://dimensionsguide.s3.amazonaws.com/06-FIXTURES/REFRIGERATORS/FRIGIDAIRE-TOP-FREEZER-REFRIGERATOR-18-CU-FT/Dimensions-Fixtures-Refrigerators-Frigidaire-Top-Freezer-Refrigerator-18-Cu-Ft.svg
+[!] Error:: Invalid image, not saving https://dimensionsguide.s3.amazonaws.com/06-FIXTURES/REFRIGERATORS/FRIGIDAIRE-TOP-FREEZER-REFRIGERATOR-18-CU-FT/Dimensions-Fixtures-Refrigerators-Frigidaire-Top-Freezer-Refrigerator-18-Cu-Ft.svg
+
+[%] Downloading Image #21 from https://kitchenaid-h.assetsadobe.com/is/image/content/dam/business-unit/whirlpool/en-us/marketing-content/blog-posts/2-inline-photo-2.png?$12-col-desktop$
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://i.pinimg.com/originals/29/d9/3a/29d93af5d918599806067a2cbdb3697a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://cdn.shopify.com/s/files/1/0551/1390/8403/files/en-02-inline-photo-1.png
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.voltasbeko.com/media/Plazathemes/blog/images/9/1/914x397-ref2_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.pinimg.com/originals/e9/a6/bb/e9a6bb350ba68d81f90bf42c25f06721.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://i.pinimg.com/originals/6b/45/e9/6b45e9ab702cb814c3c2439c1c2b8863.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.lg.com/sa_en/images/spec/LT19CBBSLN-Dimension-Images-D.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://cdn.shopify.com/s/files/1/0551/1390/8403/files/en-02-inline-photo-5-1.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://media.angi.com/s3fs-public/standard-fridge-sizes.png?impolicy=infographic
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://manuals.plus/wp-content/uploads/2021/05/SAMSUNG-3-Door-French-Door-Refrigerator-Dimensions.png
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://cdn.homedit.com/wp-content/uploads/2021/03/How-to-measure-fridge-768x480.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/toshiba-aem/in/refrigerator/double-door-refrigerator/gr-ag46inxk/gallery2.jpg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.bajajmall.in/emistore/media/catalog/product/h/i/hitachirs700pnd2gbkglassblack_additional3.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.mitsubishielectricmalaysia.com/wp-content/uploads/2022/07/MR-FX43EN-3-GlassBrilliantBlack-760x760.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.zanussi.com.eg/globalassets/appliances/fridge-freezers/ztm3701a-b/ztm3701a-b-1500x1500.png
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://cdn.lotuselectronics.com/ItemImages/361255IM.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/toshiba-aem/in/bo-refrigerator/bo-double-door-refrigerator/bo-gr-ag66inaxk/toshiba-661l-double-door-refrigerator-black-glass-finish-gr-ag66inaxk-banner-2.jpeg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://m.media-amazon.com/images/I/81afSsSwiXL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://5.imimg.com/data5/YF/TO/MY-68488816/double-door-refrigerators-500x500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i5.walmartimages.com/asr/78d7c9c8-37c3-4ee4-b3b8-2489746e8921_1.81319fbff5e9bb0483855e780e5a9a69.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i5.walmartimages.com/asr/57b090ce-fd52-4efb-98a9-b1d46ed39b9a_1.8e4ccfb7c0a6ed0a3dd8cfc8b4f7d095.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/toshiba-aem/in/refrigerator/double-door-refrigerator/gr-ag28inuuk/gallery2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://i5.walmartimages.com/asr/27bc7e00-7f19-4c46-9ab8-a0e7382c9ba6_1.1a0d957a1fa073cc65ecdcaadee49bb8.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #44 from http://content.blueport.com/ProductImages/0/444378.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.lg.com/ae/images/refrigerators/md07547306/gallery/LM-11.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://img.5milesapp.com/image/upload/f_auto,t_i800/v1550428764/nllhurmyqksql4rewn3c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://bhb.com.my/wp-content/uploads/2020/04/9F035199-A8E6-4A91-8513-497F6937766F.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6079/6079000cv12d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5789/5789905_rd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://cdn.lotuselectronics.com/webpimages/604143IM.webp
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

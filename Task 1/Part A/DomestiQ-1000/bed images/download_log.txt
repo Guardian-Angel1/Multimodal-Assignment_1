@@ -1,0 +1,177 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\bed images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 71 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images.furnituredealer.net/img/products/progressive_furniture/color/willow p608-p610-p612_p600-34%2b35%2b78-b1.jpg
+[!] Issue getting: https://images.furnituredealer.net/img/products/progressive_furniture/color/willow p608-p610-p612_p600-34%2b35%2b78-b1.jpg
+[!] Error:: URL can't contain control characters. '/img/products/progressive_furniture/color/willow p608-p610-p612_p600-34%2b35%2b78-b1.jpg' (found at least ' ')
+[%] Downloading Image #1 from https://i5.walmartimages.com/asr/6196a622-c590-4f7d-8512-408215d321ff.7b8d0c3ba69304dcff3043c39fe3385b.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.furnituredealer.net/img/products/coaster/color/devon--181734809_300525ke-b1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.asgharfurniture.ae/wp-content/uploads/2022/05/Chareau-Full-Size-Velvet-Upholstered-Nailhead-Bed-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://i0.wp.com/woodwoon.com/wp-content/uploads/2023/02/BK0016-bed-modern-bed-design-in-pakistan-Woodwoon.webp?fit=1536%2C1024&amp;ssl=1
+[!] Issue getting: https://i0.wp.com/woodwoon.com/wp-content/uploads/2023/02/BK0016-bed-modern-bed-design-in-pakistan-Woodwoon.webp?fit=1536%2C1024&amp;ssl=1
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #4 from https://www.homestratosphere.com/wp-content/uploads/2014/11/panelbed.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://images.furnituredealer.net/img/products/coaster/color/upholstered beds - coaster_300529q-b1.jpg
+[!] Issue getting: https://images.furnituredealer.net/img/products/coaster/color/upholstered beds - coaster_300529q-b1.jpg
+[!] Error:: URL can't contain control characters. '/img/products/coaster/color/upholstered beds - coaster_300529q-b1.jpg' (found at least ' ')
+[%] Downloading Image #5 from https://images.woodenstreet.de/image/data/bed-with-storage/walken-bed-with-storage/updated/updated/honey/new-logo/2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://dwellingdecor.com/wp-content/uploads/2015/12/Madison-Square-Upholstered-Panel-Bed-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://1.bp.blogspot.com/-d5R9mWlNy6E/XkFHwJTGU1I/AAAAAAAACJk/B0P68_zczuwvrvYlIB6v5ki6t40d6MVBQCLcBGAsYHQ/s1600/IMG_9411.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.decornation.in/wp-content/uploads/2020/03/solid-wood-double-bed-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://m.media-amazon.com/images/I/71g+jlUUJgL._SL1476_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://m.media-amazon.com/images/I/81FbuyfBdjL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://i.pinimg.com/originals/f5/4e/95/f54e95c14b9c3f9452545333930e62f9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.mattressclarity.com/wp-content/uploads/2016/12/MattressDimensionsAndSizes.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://cdn.shopify.com/s/files/1/0195/9342/files/Mattress_Sizes_and_Their_Dimensions.jpg?v=1634651278
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i2.wp.com/restrightmattress.com/wp-content/uploads/2020/07/hospital-bed-mattress-sizes.jpg
+[!] Issue getting: https://i2.wp.com/restrightmattress.com/wp-content/uploads/2020/07/hospital-bed-mattress-sizes.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #14 from https://cdn.shopify.com/s/files/1/0485/7567/6580/files/Mattress-Sizes-and-Dimensions-mudcloth-on-a-california-king-4.jpg?v=1634853118
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://amerisleep.com/blog/wp-content/uploads/2020/01/Mattress-Sizes-and-Dimensions-Guide-01-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://hips.hearstapps.com/hmg-prod/images/mattress-size-guide-1641516596.png?resize=980:*
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://restrightmattress.com/wp-content/uploads/2020/05/mattress-sizes-and-dimensions-.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://amerisleep.com/blog/wp-content/uploads/2021/01/Mattress-Sizes-and-Dimensions-in-Canada1-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i2.wp.com/restrightmattress.com/wp-content/uploads/2020/09/adjustable-bed-sizes.jpg
+[!] Issue getting: https://i2.wp.com/restrightmattress.com/wp-content/uploads/2020/09/adjustable-bed-sizes.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #19 from https://restrightmattress.com/wp-content/uploads/2020/05/rv-mattress-sizes.png
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i.pinimg.com/originals/30/d9/38/30d93834c1b986910e48240278c910f5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.familyhandyman.com/wp-content/uploads/2017/12/lifebuzz-777892790decb65b3a1892a201942faf-limit_2000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://i.etsystatic.com/29236928/r/il/cea296/4336336497/il_fullxfull.4336336497_32f7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://i.pinimg.com/originals/19/91/50/1991507eab330d8ca797441a7314eb41.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://homeisd.com/wp-content/uploads/2017/05/los-fines-de-semana-yo-paso-tiempo-en-mi-cuarto-s-280489883025202474.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.thespruce.com/thmb/rMdEQHuITkKcM6TxGqX3K7VYXG4=/987x0/filters:no_upscale():max_bytes(150000):strip_icc()/diycandy-59ed11819390416a84b1132924085f4f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://i.pinimg.com/originals/cd/79/3a/cd793a4093af42ed0c08fdca74a8b338.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://cloudfrontgharpediabucket.gharpedia.com/uploads/2023/06/Statement-Making-Headboards-02-0504020004.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://www.familyhandyman.com/wp-content/uploads/2017/12/img_38481.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i.pinimg.com/originals/2e/de/66/2ede66798f98130453feea90c5112045.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from http://architecturesideas.com/wp-content/uploads/2018/04/DIY-bed-frame-designs-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://i.pinimg.com/originals/00/3c/2b/003c2b0f3c6a573f80c5955f939e9145.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i5.walmartimages.com/asr/f83b51c9-0612-445c-9e89-f0cf21806f0e.2885d27c2de154ab2d3d50dd4d2305f6.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://i5.walmartimages.com/asr/484d9f1a-5b7a-472c-aede-4ab65524205d.5ad93068867d3b9908b3d7cf5a623de2.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://i5.walmartimages.com/asr/f938ad71-b4fe-42e6-a7dc-797837485297_1.99b60fa2b3a9cfb859c95b0f8d083892.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://xtore.in/wp-content/uploads/2020/12/81MFVys0JXL._SL1500_-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i5.walmartimages.com/asr/aeecec1d-774b-4735-affb-641fb6227c52_1.3bf5912d0c7a6375c113c5aba2611a1a.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://i5.walmartimages.com/asr/81259929-71ff-4fca-a687-19af19f5bafa.bf12381c6ba9b7b82fdc9d8a56935154.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i5.walmartimages.com/asr/ec89ceeb-5af3-4edd-a5e0-67ea2859aa1c_1.09e6303a97f72af2f7f1103e09525ec9.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i5.walmartimages.com/asr/bb4d2dc2-a20d-48d1-8a1a-8105c7a99bd5_1.0957c08bf81901bbccbd880af6145672.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i5.walmartimages.com/asr/5e63de6c-16c6-44bf-af63-037fad9d697f.573a50a6abb449d8b60cd2ff68ec7fbc.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i5.walmartimages.com/asr/f116986f-5b4e-43d1-b262-655e0ab62241_1.45bc61773b2368e33cdc5dfffacfa77b.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i5.walmartimages.com/asr/c0ac2d56-f018-492f-b312-146985647e53_1.595181f8ee921d94e9cb3fde3b64b58a.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://i5.walmartimages.com/asr/5909e7dc-3791-438b-8818-9c20f40e6c01.403c2a50357e97af0718fb0b2dc2140c.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://assets.wfcdn.com/im/25169676/compr-r85/2759/275944225/Chandlor+Panel+Bed.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://i5.walmartimages.com/asr/236c8eea-a3e4-4eb5-9ef4-4772b346454b.f878c432b659651a736c876a9a4fbde4.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://mysleepyhead.com/media/catalog/product/q/u/queen_size_wooden_bed_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i5.walmartimages.com/asr/2cd59aef-6455-4cfb-8873-6bba431a9a68_2.841d20bfb5aeda86c712674e8fb93e10.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://i5.walmartimages.com/asr/1f4e9e4f-2b41-46aa-bac3-edf8febddae2_1.b1dbde3324bb7cce25b06bae80a1b588.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://images.woodenstreet.de/image/data/bed-without-storage/adolph-bed-without-storage/updated/walnut/new-logo/1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://i5.walmartimages.com/asr/749c1fa5-cc3a-460a-8352-53574d6cc2b2.cd164508bf69d26c1b7a9191877e2357.jpeg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

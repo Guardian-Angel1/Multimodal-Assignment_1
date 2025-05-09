@@ -1,0 +1,189 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\washing machine front load images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from http://images.samsung.com/is/image/samsung/au_WF1702XEC-XSA_004_Front_white_10029420084301?$TM-Gallery$
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.homedepot-static.com/productImages/a1ccec71-5e68-46b2-9962-bb82a3c93391/svn/diamond-gray-ge-front-load-washers-gfw450spkdg-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://5.imimg.com/data5/VB/WG/PN/GLADMIN-3061/bosch-7-kg-fully-automatic-front-load-washing-machine-wak24268in-silver.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://whirlpoolindia.vtexassets.com/arquivos/ids/164361-800-auto?v=638000265865700000&amp;width=800&amp;height=auto&amp;aspect=true
+[%] File Downloaded !
+
+[%] Downloading Image #5 from http://images.samsung.com/is/image/samsung/in_WD0904W8Y1-XTL_001_Front?$TM-Gallery$
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://5.imimg.com/data5/SJ/GD/NH/GLADMIN-8784/lg-8-kg-fully-automatic-front-load-washing-machine-fh2g6tdnl42-luxury-silver.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://cdn.shoplightspeed.com/shops/606152/files/15409685/1600x2048x2/lg-lg-direct-drive-front-load-steam-washing-machin.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://content.abt.com/image.php/1_WM3570V.jpg?image=/images/products/BDP_Images/1_WM3570V.jpg&amp;canvas=1&amp;quality=100&amp;min_w=450&amp;min_h=320&amp;ck=426
+[!] Issue getting: http://content.abt.com/image.php/1_WM3570V.jpg?image=/images/products/BDP_Images/1_WM3570V.jpg&amp;canvas=1&amp;quality=100&amp;min_w=450&amp;min_h=320&amp;ck=426
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #8 from https://lh4.googleusercontent.com/WCy0Gg7s1SV5cxnw8bnxrI7VElPITU4ev5wYAJUQwlh_QkkxYNZbxlX9pZ0UO2Lep8us2nA8xF_ClL3ZdU9IOEtjQDXJAtC2kUICnmbVxJf_wQW3OYFJ1Cxkl7MpIzo9KmYHJqzD
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://media.prod.bunnings.com.au/api/public/content/fdb34413aeb149d6b1aab09c700ca93e?v=21dc6aba
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://images.homedepot-static.com/productImages/0208d24b-e6ae-490e-80c9-ec50ad6c4e29/svn/white-ge-front-load-washers-gfw450sskww-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://c.shld.net/rpx/i/s/i/spin/10103564/prod_12126194212??hei=64&amp;wid=64&amp;qlt=50
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://1.bp.blogspot.com/-J69kR9TnxnQ/XZCH0g175BI/AAAAAAAAALs/J_-UBuvVoFk5u70ZIFRI38Zh6w_3vQvmACLcBGAsYHQ/s1600/IFB.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/toshiba-aem/sg/laundry/TW-BL105A4S_pic 2_1024x1024px.png
+[!] Issue getting: https://d1pjg4o0tbonat.cloudfront.net/content/dam/toshiba-aem/sg/laundry/TW-BL105A4S_pic 2_1024x1024px.png
+[!] Error:: URL can't contain control characters. '/content/dam/toshiba-aem/sg/laundry/TW-BL105A4S_pic 2_1024x1024px.png' (found at least ' ')
+[%] Downloading Image #13 from https://www.lg.com/au/images/washing-machines/md05136623/gallery/zoom03.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://images.samsung.com/is/image/samsung/assets/in/microsite/fully-automatic-washing-machines/front-load/eco-main-bnr-img-d3.jpg?$ORIGIN_JPG$
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://5.imimg.com/data5/MO/BL/XS/GLADMIN-8929/lg-7-kg-fully-automatic-front-load-washing-machine-fh296hdl23-white.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://i.ytimg.com/vi/QXT7g1dAAfg/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://whirlpoolindia.vtexassets.com/arquivos/ids/164348-800-auto?v=638000251176330000&amp;width=800&amp;height=auto&amp;aspect=true
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://whirlpoolindia.vtexassets.com/arquivos/ids/164353/Xpert-care-Silver-dimension-LCD-O3-8kg_1500x1500.jpg?v=638000258799300000
+[%] File Downloaded !
+
+[%] Downloading Image #19 from http://www.lgnewsroom.com/wp-content/uploads/2014/01/WM8000HVA.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://static.digit.in/default/d3535ab857a514934703ebcd4bcc4f6409318f33.jpeg?tr=w-600
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://i.ytimg.com/vi/uN8ySa4YIrI/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://media.croma.com/image/upload/v1670591753/Croma Assets/Large Appliances/Washers and Dryers/Images/228840_4_cxs82z.png
+[!] Issue getting: https://media.croma.com/image/upload/v1670591753/Croma Assets/Large Appliances/Washers and Dryers/Images/228840_4_cxs82z.png
+[!] Error:: URL can't contain control characters. '/image/upload/v1670591753/Croma Assets/Large Appliances/Washers and Dryers/Images/228840_4_cxs82z.png' (found at least ' ')
+[%] Downloading Image #22 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/in/washing-machines/front-load-washers/midea-7-kg-fully-automatic-front-load-washing-machine-dark-gray-mf100w70-t-in/MF100 7kg Dimension.jpeg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[!] Issue getting: https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/in/washing-machines/front-load-washers/midea-7-kg-fully-automatic-front-load-washing-machine-dark-gray-mf100w70-t-in/MF100 7kg Dimension.jpeg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[!] Error:: URL can't contain control characters. '/content/dam/midea-aem/in/washing-machines/front-load-washers/midea-7-kg-fully-automatic-front-load-washing-machine-dark-gray-mf100w70-t-in/MF100 7kg Dimension.jpeg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg' (found at least ' ')
+[%] Downloading Image #22 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6390/6390372cv14d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://d1pjg4o0tbonat.cloudfront.net/content/dam/midea-aem/in/washing-machines/front-load-washers/midea-7-kg-fully-automatic-front-load-with-in-built-heater-mwmfl070hef/gallery5.jpeg/jcr:content/renditions/cq5dam.web.5000.5000.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://static.toiimg.com/thumb/resizemode-4,msid-71906006,width-1070/71906006.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.ytimg.com/vi/f26Si6Zjhy4/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://i.ytimg.com/vi/islqmWl9gQw/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from http://appliancerepairquestions.com/wp-content/uploads/2014/12/front-load-washer-parts-identification.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.ytimg.com/vi/9b6RFau1eQs/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i.ytimg.com/vi/MhQI4YI-g8M/hqdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://sydneywidediscounts.com.au/prentices/2023/07/Setting-up-your-front-load-washing-machine-1080x675.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://i.ytimg.com/vi/0vgtDlRNtiQ/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i.ytimg.com/vi/VrRIpGZCzCw/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://i.ytimg.com/vi/p35lUo6g-ek/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://media3.bosch-home.com/Images/600x/MCIM02315882_KI-Waching-Machine-Installation-Acc01-01.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://miro.medium.com/v2/resize:fit:800/1*l_pkaSH9IlBGqr-RhA1O9w.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i.ytimg.com/vi/7lPRStvmD1o/hqdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://i.ytimg.com/vi/eaWsoDiiImY/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from http://5.imimg.com/data5/DX/NM/EW/GLADMIN-8790/lg-8-kg-fully-automatic-front-load-washing-machine-fht1408sws-sts-vcm.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.ytimg.com/vi/-ReBng2kZ4k/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.ytimg.com/vi/0eidRNqIn1Q/maxresdefault.jpg
+[!] Issue getting: https://i.ytimg.com/vi/0eidRNqIn1Q/maxresdefault.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #40 from https://media3.bosch-home.com/Images/600x/MCIM02315881_KI-Waching-Machine-Installation-Acc01-02.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://i.ytimg.com/vi/cwa5QK3YSbU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from http://greatliving.in/wp-content/uploads/2023/09/How-To-Load-a-Front-Load-Washing-Machine.png
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://cdn1.smartprix.com/rx-i4DzNSNdw-w1200-h1200/ifb-senator-aqua-sx.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.englishsakshi.com/wp-content/uploads/2021/07/washing-machines-2-1024x607.jpg
+[Error]Invalid image, not saving https://www.englishsakshi.com/wp-content/uploads/2021/07/washing-machines-2-1024x607.jpg
+
+[!] Issue getting: https://www.englishsakshi.com/wp-content/uploads/2021/07/washing-machines-2-1024x607.jpg
+[!] Error:: Invalid image, not saving https://www.englishsakshi.com/wp-content/uploads/2021/07/washing-machines-2-1024x607.jpg
+
+[%] Downloading Image #44 from https://www.gadgetsabout.com/wp-content/uploads/2018/12/IFB-6-kg-Fully-Automatic-Front-Loading.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.canstarblue.com.au/wp-content/uploads/2021/08/Fisher-Paykel-front-load-washing-machine-560x672.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://www.eros.ae/media/catalog/product/cache/4d25cc2d7db4bdfe410479ebb1f61f20/6/1/61dp7_baknl._ac_sl1500_.jpg
+[!] Issue getting: https://www.eros.ae/media/catalog/product/cache/4d25cc2d7db4bdfe410479ebb1f61f20/6/1/61dp7_baknl._ac_sl1500_.jpg
+[!] Error:: HTTP Error 503: Service Unavailable
+[%] Downloading Image #46 from https://www.thespruce.com/thmb/_sZxY2vpEsGUDDnzQOwi9sNtX3I=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc()/LGWM3900HVA-310d807606b64a348bcf2cbae7a4a78f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701196841/Croma Assets/Large Appliances/Washers and Dryers/Images/301441_0_kbzvt7.png
+[!] Issue getting: https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701196841/Croma Assets/Large Appliances/Washers and Dryers/Images/301441_0_kbzvt7.png
+[!] Error:: URL can't contain control characters. '/prod/https://media.croma.com/image/upload/v1701196841/Croma Assets/Large Appliances/Washers and Dryers/Images/301441_0_kbzvt7.png' (found at least ' ')
+[%] Downloading Image #47 from https://toptenfamous.com/wp-content/uploads/2021/05/BOSCH-7KG-WAK2426SIN-Front-Load-Washing-Machine-2_1024x.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://images.samsung.com/is/image/samsung/p6pim/in/ww70t4020cx-tl/gallery/in-front-loading-washer-ww70t4020cheo-ww70t4020cx-tl-383435730?$650_519_PNG$
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4978/4978236cv12d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.lg.com/content/dam/channel/wcms/in/blog/wm-tl-fl-blog/Mobile-Banner.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

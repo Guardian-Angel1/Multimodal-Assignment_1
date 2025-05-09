@@ -1,0 +1,210 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\mixer grinder images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images.philips.com/is/image/PhilipsConsumer/HL7699_00-IMS-en_IN?$jpglarge$&amp;wid=1250
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://m.media-amazon.com/images/I/71QNtftyeuL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://m.media-amazon.com/images/I/51Ra8kCorHL._SL1080_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://orpatgroup.com/wp-content/uploads/2020/12/1-Mixer-Grinder-–-Kitchen-Queen-–-650W-–-White.jpg
+[!] Issue getting: https://orpatgroup.com/wp-content/uploads/2020/12/1-Mixer-Grinder-–-Kitchen-Queen-–-650W-–-White.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2013' in position 48: ordinal not in range(128)
+[%] Downloading Image #4 from http://n3.sdlcdn.com/imgs/a/3/i/Bajaj-CLASSIC750-Mixer-Grinder-White-SDL247224804-1-8de0d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://media.croma.com/image/upload/v1684942994/Croma Assets/Small Appliances/Food Preparation App/Images/225092_0_c1unr1.png
+[!] Issue getting: https://media.croma.com/image/upload/v1684942994/Croma Assets/Small Appliances/Food Preparation App/Images/225092_0_c1unr1.png
+[!] Error:: URL can't contain control characters. '/image/upload/v1684942994/Croma Assets/Small Appliances/Food Preparation App/Images/225092_0_c1unr1.png' (found at least ' ')
+[%] Downloading Image #5 from https://images.philips.com/is/image/philipsconsumer/6bb734718e544d77a6e6ad87009a8883?$jpglarge$&amp;wid=1250
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.vidiem.in/uploads/images/001_Lily1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from http://globalnewsonnetwork.com/wp-content/uploads/2023/04/Prestige-Endura-1000-Juicer-Mixer-Grinder-4-Jars-Black-Silver-1536x1152.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://freepngimg.com/thumb/technology/51135-8-mixer-grinder-images-free-hd-image.png
+[%] File Downloaded !
+
+[%] Downloading Image #9 from http://image3.mouthshut.com/images/imagesp/925811168s.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://microless.com/cdn/products/521cc2c02d9e66ef0f89dc9d1c9356a7-hi.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://i5.walmartimages.com/asr/60c10f3c-f35f-488f-b67d-f316e86a3d5f_1.9638ea22316f254db4ed78d7d113e04a.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://cdn.shopify.com/s/files/1/0611/8444/2609/articles/MixerGrinderPowerGuardSuperDiamondMixerGrinder925Watts_2SteelJars_1Poly-CarbonateJar_1_1_ded29411-c29e-4196-9ac6-ac8fef1b0169.png?v=1682676596&amp;width=750
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://homezene.com/wp-content/uploads/2019/08/Types_of_Mixer_Grinders-300x300.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://homezene.com/wp-content/uploads/2020/01/Mixer-Grinder-Types-954x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://techypro.in/wp-content/uploads/2021/05/Preethi-Zodiac-MG-218-Mixer-Grinder.jpg
+[!] Issue getting: https://techypro.in/wp-content/uploads/2021/05/Preethi-Zodiac-MG-218-Mixer-Grinder.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #15 from https://kitchenmela.in/wp-content/uploads/2021/10/Philips-HL7756-Mixer-Grinder.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://1.bp.blogspot.com/-mI21yIjZeeE/YwCJxVew4iI/AAAAAAAAC1A/KlTR5HymRf44v6pC2KaVPXC_bL3SjjNUQCNcBGAsYHQ/s1280/Different%2BTypes%2Bof%2BMixer%2BGrinder.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://kitchenexplored.com/wp-content/uploads/2022/12/Types-of-mixer-grinder-768x682.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://orpatgroup.com/wp-content/uploads/2022/12/Kitchen-Chef-Duo-Ming-Green-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://images.philips.com/is/image/philipsconsumer/a8000336b97a48809123ad2700fa36d7?$jpglarge$&amp;wid=960
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://images-na.ssl-images-amazon.com/images/I/71PuESigE6L._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.mishry.com/wp-content/uploads/2019/06/best-juicer-mixer-grinders.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://images-na.ssl-images-amazon.com/images/I/813KNLW%2BsAL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://uae.geepas.com/media/catalog/product/cache/fdffb5ff195b476523333d13daad420a/g/s/gsb5081n_2_7hzckrw.jpg
+[!] Issue getting: https://uae.geepas.com/media/catalog/product/cache/fdffb5ff195b476523333d13daad420a/g/s/gsb5081n_2_7hzckrw.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #23 from https://images-na.ssl-images-amazon.com/images/I/61IOZqqFJDL._SL1280_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://bluemooninterio.com/wp-content/uploads/2022/06/14904-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://orpatgroup.com/wp-content/uploads/2020/12/2-Juicer-Mixer-Grinder-–-650-W-–-White-1.jpg
+[!] Issue getting: https://orpatgroup.com/wp-content/uploads/2020/12/2-Juicer-Mixer-Grinder-–-650-W-–-White-1.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2013' in position 55: ordinal not in range(128)
+[%] Downloading Image #25 from https://www.premierkitchen.in/wp-content/uploads/2021/11/Premier-Xpress-S3-750W-mixer-grinder.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.projuicer.in/wp-content/uploads/2021/06/juicer-mixer-grinder-blades.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://rukminim1.flixcart.com/image/1664/1664/mixer-grinder-juicer/r/4/m/sujata-powermatic-plus-original-imae3ygvscpr9g6p.jpeg?q=90
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://sujataappliances.com/wp-content/uploads/2021/08/MUTLIMIX-JUICER-MIXER-GRINDER-New-1024x1024.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://images-na.ssl-images-amazon.com/images/I/71wwOX3MrSL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://m.media-amazon.com/images/I/71u4k4-PFNL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from http://cdn.shopclues.net/images/detailed/3266/244787681rRi8Z2Y5L1390804478_1393669035.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://cdn.staticans.com/image/tr:e-sharpen-01,h-1500,w-1500,cm-pad_resize/catalog/brandstore/philips/251-2022_07_07-HL7568__Product.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://images.philips.com/is/image/PhilipsConsumer/HL7715_00-IMS-en_IN?$jpglarge$&amp;wid=1250
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://kitchenadvisor.in/wp-content/uploads/2020/12/Havells-Vitonica-Juicer-Mixer-Grinder-.png
+[!] Issue getting: https://kitchenadvisor.in/wp-content/uploads/2020/12/Havells-Vitonica-Juicer-Mixer-Grinder-.png
+[!] Error:: HTTP Error 520: 
+[%] Downloading Image #34 from https://images.thdstatic.com/productImages/7353d113-dee2-47a1-a952-54bbd30c2a59/svn/stainless-steel-hamilton-beach-professional-countertop-blenders-58770-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.omgtricks.com/wp-content/uploads/2020/08/61Z4fxBfkVL._SL1000_-1536x1256.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.kent.co.in/images/kitchen-appliances/grinder-blender/kent-juicer-mixer-grinder-mobile.png
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://rukminim1.flixcart.com/image/832/832/mixer-grinder-juicer/y/v/z/prestige-434s-original-imadyp8yckns8nyz.jpeg?q=70
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://ii1.pepperfry.com/media/catalog/product/b/a/1600x1760/bajaj-white-majesty-jx5-450-w-juicer-mixer-grinder-with-2-jars-bajaj-white-majesty-jx5-450-w-juicer--8f2ycn.jpg
+[!] Issue getting: https://ii1.pepperfry.com/media/catalog/product/b/a/1600x1760/bajaj-white-majesty-jx5-450-w-juicer-mixer-grinder-with-2-jars-bajaj-white-majesty-jx5-450-w-juicer--8f2ycn.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #38 from https://ii1.pepperfry.com/media/catalog/product/s/u/1600x1760/sujata-900w-powermatic-plus-juicer-mixer-grinder-sujata-900w-powermatic-plus-juicer-mixer-grinder-w7nnwz.jpg
+[!] Issue getting: https://ii1.pepperfry.com/media/catalog/product/s/u/1600x1760/sujata-900w-powermatic-plus-juicer-mixer-grinder-sujata-900w-powermatic-plus-juicer-mixer-grinder-w7nnwz.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #38 from https://orpatgroup.com/wp-content/uploads/2020/12/2-Juicer-Mixer-Grinder-–-650-W-–-White.jpg
+[!] Issue getting: https://orpatgroup.com/wp-content/uploads/2020/12/2-Juicer-Mixer-Grinder-–-650-W-–-White.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2013' in position 55: ordinal not in range(128)
+[%] Downloading Image #38 from https://sujataappliances.com/wp-content/uploads/2021/08/SUPERMIX-MIXER-GRINDER-New.png
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://rukminim1.flixcart.com/image/1664/1664/mixer-grinder-juicer/u/5/e/panasonic-mx-ac400-original-imae2a6wphw8dnkc.jpeg?q=90
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://m.media-amazon.com/images/I/717oHiyKisL._SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://ii1.pepperfry.com/media/catalog/product/m/a/800x880/maharaja-whiteline-gala-450w-juicer-mixer-grinder-maharaja-whiteline-gala-450w-juicer-mixer-grinder-hqbvxz.jpg
+[!] Issue getting: https://ii1.pepperfry.com/media/catalog/product/m/a/800x880/maharaja-whiteline-gala-450w-juicer-mixer-grinder-maharaja-whiteline-gala-450w-juicer-mixer-grinder-hqbvxz.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #41 from https://b2958125.smushcdn.com/2958125/wp-content/uploads/effective-uses-mixer.jpg?lossy=1&amp;strip=1&amp;webp=1
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.projuicer.in/wp-content/uploads/2021/06/how-to-use-juicer-mixer-grinder-2048x1365.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://besttoolskitchen.com/wp-content/uploads/2023/06/How-to-use-mixer-grinder-1-1024x684.png
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://images.slurrp.com/prodarticles/85g15jikn4d.webp
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://mixergrinderadvisor.in/wp-content/uploads/2022/06/mixer-grinder.jpg
+[!] Issue getting: https://mixergrinderadvisor.in/wp-content/uploads/2022/06/mixer-grinder.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #45 from https://polarindia.files.wordpress.com/2019/04/online-mixer-grinder-.jpg?w=300
+[Error]Invalid image, not saving https://polarindia.files.wordpress.com/2019/04/online-mixer-grinder-.jpg?w=300
+
+[!] Issue getting: https://polarindia.files.wordpress.com/2019/04/online-mixer-grinder-.jpg?w=300
+[!] Error:: Invalid image, not saving https://polarindia.files.wordpress.com/2019/04/online-mixer-grinder-.jpg?w=300
+
+[%] Downloading Image #45 from https://www.archanaskitchen.com/media/k2/items/cache/3fc96581bce7d80aa5dbe47124c0e7e2_XL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://wiproappliances.com/cdn/shop/articles/Types_Of_Mixer_Grinder_Jars_and_Their_Uses.jpg?v=1720603197&amp;width=1100
+[!] Issue getting: https://wiproappliances.com/cdn/shop/articles/Types_Of_Mixer_Grinder_Jars_and_Their_Uses.jpg?v=1720603197&amp;width=1100
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #46 from https://polarindia.files.wordpress.com/2021/05/efficient-use-of-mixer-grinder-in-kitchen.png?w=600
+[Error]Invalid image, not saving https://polarindia.files.wordpress.com/2021/05/efficient-use-of-mixer-grinder-in-kitchen.png?w=600
+
+[!] Issue getting: https://polarindia.files.wordpress.com/2021/05/efficient-use-of-mixer-grinder-in-kitchen.png?w=600
+[!] Error:: Invalid image, not saving https://polarindia.files.wordpress.com/2021/05/efficient-use-of-mixer-grinder-in-kitchen.png?w=600
+
+[%] Downloading Image #46 from https://m.media-amazon.com/images/I/31QuVO2vZPS.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://shop.ttkprestige.com/media/wysiwyg/Blogs/MG/Nov_2023/Blog-3_Juicer-Mixer-Grinder-vs.-Mixer-Grinder_-Choosing-the-Right-Kitchen-Appliance.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://media3.bosch-home.com/Images/600x/MCIM02868730_stage_banner-1600x620_without-text.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.pinimg.com/736x/59/df/64/59df642ccd1d4e595b26a79dbcb357d7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://m.media-amazon.com/images/I/71Wq0mQNTLL._SL1500_.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

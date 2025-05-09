@@ -1,0 +1,186 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\induction cooktop images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://www.ikea.com/us/en/images/products/foernebo-induction-cooktop-w-downdraft-vent__1125238_pe875412_s5.jpg?f=xl
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://i5.walmartimages.com/asr/4b3787e9-ea6b-44db-83e7-75199a91ba16_1.5ae237e56b05a94956611a81a222c3b5.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://m.media-amazon.com/images/I/71uBj40Uy1L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://rukminim1.flixcart.com/image/1664/1664/induction-cook-top/5/7/u/philips-hd4928-hd4928-original-imadmhkp9cchtkgb.jpeg?q=90
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.foodchamps.org/wp-content/uploads/2021/05/Empava-induction-Cooktop.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://images-na.ssl-images-amazon.com/images/I/71M1vl06W9L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6335/6335114cv14d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_175930801??hei=64&amp;wid=64&amp;qlt=50
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6335/6335115cv17d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://media.miele.com/images/2000015/200001542/20000154229.png?impolicy=z-boxed&amp;d=1500
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://images.qvc.com/is/image/k/29/k49629.001
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_172845601??hei=64&amp;wid=64&amp;qlt=50
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.millerwatts.com.au/wp-content/uploads/2021/12/Kitchen-Appliance-Installation-Melbourne-1024x683.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i.ytimg.com/vi/3d7FBhX-q0g/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://cookingfinding.com/wp-content/uploads/2023/08/How-to-Install-an-Induction-Cooktop.webp
+[!] Issue getting: https://cookingfinding.com/wp-content/uploads/2023/08/How-to-Install-an-Induction-Cooktop.webp
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #15 from https://manuals.plus/wp-content/uploads/2021/09/description-768x486.png
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.jimselectrical.com.au/uploads/image/jims-electrical-ringwood.png
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://thecompactkitchen.com/wp-content/uploads/2024/03/image-71-1024x683.png
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://superhomeservices.com.au/wp-content/uploads/2022/05/Induction-Cooktop-Installation.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://www.naturalhandyman.com/iip/infapplianceinstallation/i/induction_cooktop/1-GE_Induction_Cooktop.png
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.naturalhandyman.com/iip/infapplianceinstallation/i/induction_cooktop/3-GE_Induction_Cooktop.png
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://thecompactkitchen.com/wp-content/uploads/2024/03/Effortless-Eats-The-Ultimate-Guide-to-Induction-Cooktop-Installation-1024x1536.png
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://i.pinimg.com/originals/12/02/fd/1202fd939b7b599d02978b620abaa106.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://static-data2.manualslib.com/pdf2/42/4123/412241-electrolux/images/ew36ic60i__36_in_induction_cooktop_1_bg.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://i.ytimg.com/vi/7z9TZKt4XkU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://storables.com/wp-content/uploads/2023/08/how-to-install-induction-cooktop-1691131996.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://s3.manualzz.com/store/data/034644783_1-c5a1fd156cc76b975921538b9a743993-360x466.png
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.djdelectrics.com.au/static/uploads/images/induction-cooktop-installation-melbourne-outer-east-wfmqmbqampqf.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://s1.manualzz.com/store/data/070707608_1-f2c669d0c4e328329e0e2bae1ab6b905-360x466.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://manuals.plus/wp-content/uploads/2021/06/Westinghouse-Induction-Cooktops-INSTALLATION-INSTRUCTIONS-CONTINUED.png
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://inductionstoveinstall.com/photo/k/56731/1000/induction-cooktop-installation.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://i.ytimg.com/vi/i1syrClTWdU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i.ytimg.com/vi/Y07QTCWkWno/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://yourcookhouse.com/wp-content/uploads/2018/06/induction-cooktop-safety-560x389-300x208.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thehealthyhomeeconomist.com/wp-content/uploads/2015/07/induction-stove-safety1-500x375.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://homeapplianceideas.com/wp-content/uploads/2023/03/What-Are-The-Safety-Precautions-For-Induction-Cooker-fm-1024x577.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.shieldyourbody.com/wp-content/uploads/2024/05/DALL·E-2024-05-23-14.38.27-A-scene-showing-a-modern-induction-cooktop-with-a-red-warning-sign-symbol-above-it.-In-the-background-there-are-visual-representations-of-electromagn.jpg
+[!] Issue getting: https://www.shieldyourbody.com/wp-content/uploads/2024/05/DALL·E-2024-05-23-14.38.27-A-scene-showing-a-modern-induction-cooktop-with-a-red-warning-sign-symbol-above-it.-In-the-background-there-are-visual-representations-of-electromagn.jpg
+[!] Error:: 'ascii' codec can't encode character '\xb7' in position 36: ordinal not in range(128)
+[%] Downloading Image #36 from http://static1.squarespace.com/static/5db80b18f9211404f3b94da9/6070293fcf94397b45ac0b79/62d67f75380eac063a05d16d/1659611577536/how-safe-is-an-induction-cooktop--website-thumbnail-template.jpg?format=1500w
+[Error]Invalid image, not saving http://static1.squarespace.com/static/5db80b18f9211404f3b94da9/6070293fcf94397b45ac0b79/62d67f75380eac063a05d16d/1659611577536/how-safe-is-an-induction-cooktop--website-thumbnail-template.jpg?format=1500w
+
+[!] Issue getting: http://static1.squarespace.com/static/5db80b18f9211404f3b94da9/6070293fcf94397b45ac0b79/62d67f75380eac063a05d16d/1659611577536/how-safe-is-an-induction-cooktop--website-thumbnail-template.jpg?format=1500w
+[!] Error:: Invalid image, not saving http://static1.squarespace.com/static/5db80b18f9211404f3b94da9/6070293fcf94397b45ac0b79/62d67f75380eac063a05d16d/1659611577536/how-safe-is-an-induction-cooktop--website-thumbnail-template.jpg?format=1500w
+
+[%] Downloading Image #36 from https://images.squarespace-cdn.com/content/v1/5db80b18f9211404f3b94da9/4e624bdd-df91-45f2-aced-0755f40d099d/induction-cooktop-safety-miele-bulthaup.jpg
+[Error]Invalid image, not saving https://images.squarespace-cdn.com/content/v1/5db80b18f9211404f3b94da9/4e624bdd-df91-45f2-aced-0755f40d099d/induction-cooktop-safety-miele-bulthaup.jpg
+
+[!] Issue getting: https://images.squarespace-cdn.com/content/v1/5db80b18f9211404f3b94da9/4e624bdd-df91-45f2-aced-0755f40d099d/induction-cooktop-safety-miele-bulthaup.jpg
+[!] Error:: Invalid image, not saving https://images.squarespace-cdn.com/content/v1/5db80b18f9211404f3b94da9/4e624bdd-df91-45f2-aced-0755f40d099d/induction-cooktop-safety-miele-bulthaup.jpg
+
+[%] Downloading Image #36 from https://thecompactkitchen.com/wp-content/uploads/2024/03/Safe-and-Sound-Exploring-the-Safety-of-Induction-Cooktops-1.png
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.iceykitchen.com/wp-content/uploads/2023/02/Is-Induction-Cooking-Safe.webp
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://fthmb.tqn.com/gZeOOb0wAWbHa5E9C6O8abV-lRU=/2500x1706/filters:fill(auto,1)/induction-2500-56a210223df78cf772718b3f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.haier.com.au/on/demandware.static/-/Library-Sites-HaierSharedLibrary/default/dw3c85142a/images/product/cooking/cooktops/haier_04_HCI_feature-safety-in-mind_1200.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://cdn.mos.cms.futurecdn.net/yeiLdUuvaRQBLzeS2GKTxg-1200-80.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://storage.googleapis.com/servicefolder-images-midjourney/temp2/Are_Induction_Cooking_Safe/sleek_induction_cooktop.png
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://device.report/m/17548c43abf9fd1642a2a30185cb2433f651130c24a0a1fd48f86e524c663b0c.png
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.shieldyourbody.com/wp-content/uploads/2024/05/DALL·E-2024-05-23-14.37.20-A-sleek-modern-induction-cooktop-with-a-black-glass-surface-featuring-touch-controls-and-a-digital-display.-The-cooktop-has-four-cooking-zones-with.jpg
+[!] Issue getting: https://www.shieldyourbody.com/wp-content/uploads/2024/05/DALL·E-2024-05-23-14.37.20-A-sleek-modern-induction-cooktop-with-a-black-glass-surface-featuring-touch-controls-and-a-digital-display.-The-cooktop-has-four-cooking-zones-with.jpg
+[!] Error:: 'ascii' codec can't encode character '\xb7' in position 36: ordinal not in range(128)
+[%] Downloading Image #43 from https://i.ytimg.com/vi/zUW9HOjoEGY/hqdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO4ZNX2SMJDPNIQEYLSIRMFK64.jpg&amp;w=1200
+[!] Issue getting: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO4ZNX2SMJDPNIQEYLSIRMFK64.jpg&amp;w=1200
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[%] Downloading Image #44 from https://i.ytimg.com/vi/MWiIxoIgU60/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.lihpao.com/images/illustration/how-does-an-induction-cooktop-work-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://inductioncookingfacts.com/wp-content/uploads/2020/03/protecting-your-induction-range1.png
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://theneffkitchen.com.au/wp-content/uploads/2019/06/07_NEFF_Cleaning-Induction-Cooktop_09_1024x576.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://i.ytimg.com/vi/mnUkEy1S2vA/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.ytimg.com/vi/EnMgQN_ox9E/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://simplybetterliving.sharpusa.com/wp-content/uploads/7.8-induction-1024x683.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

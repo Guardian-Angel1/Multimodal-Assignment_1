@@ -1,0 +1,180 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\scissors images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from http://pluspng.com/img-png/scissors-hd-png-scissors-png-image-2747.png
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://freebie.photography/office/scissors.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from http://pluspng.com/img-png/png-of-a-pair-of-scissors-download-3000.png
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://pluspng.com/img-png/scissors-png-orange-paper-scissors-1243.png
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://images.freeimages.com/images/large-previews/b1f/scissors-1427397.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://images.freeimages.com/images/large-previews/a35/scissors-1420315.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://clipground.com/images/scissors-png-6.png
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://www.pngall.com/wp-content/uploads/2016/03/Scissor-Download-PNG.png
+[%] File Downloaded !
+
+[%] Downloading Image #9 from http://pngimg.com/uploads/scissors/scissors_PNG39.png
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://purepng.com/public/uploads/large/purepng.com-scissorsscissorsshearing-toolmetal-bladessnipclip-1701527916077zibsv.png
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://static.vecteezy.com/system/resources/previews/019/906/516/original/scissors-graphic-clipart-design-free-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://pluspng.com/img-png/scissors-hd-png-scissors-png-image-scissors-png-2765.png
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://i5.walmartimages.com/asr/f95ebf08-d8b9-4149-80b6-db8f0c2a3035.98c662869cc14486b9cdcd903819ff6a.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i5.walmartimages.com/asr/e14787cd-966b-4d20-ab3a-353798c0a344_1.dc1c2f5178dc1a51ccd71bba8033a3e6.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://static.vecteezy.com/system/resources/previews/000/502/075/original/vector-scissors-icon-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://static.vecteezy.com/system/resources/previews/000/649/147/original/vector-scissors-icon-symbol-sign.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://static.vecteezy.com/system/resources/previews/000/350/572/original/scissor-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://static.vecteezy.com/system/resources/previews/000/355/991/original/vector-scissors-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://static.vecteezy.com/system/resources/previews/000/352/718/original/scissors-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://static.vecteezy.com/system/resources/previews/000/497/608/original/vector-scissors-icon-design.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://static.vecteezy.com/system/resources/previews/010/996/284/original/scissors-icon-isolated-on-a-white-background-scissors-symbol-for-web-and-mobile-apps-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://cdn3.vectorstock.com/i/1000x1000/50/77/scissors-flat-icon-scissor-simple-business-vector-20095077.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://freepngimg.com/thumb/scissor/28882-3-scissors-icon.png
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://static.vecteezy.com/system/resources/previews/005/096/429/original/scissors-icon-in-flat-editable-design-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://static.vecteezy.com/system/resources/previews/000/552/125/original/scissors-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://static.vecteezy.com/system/resources/previews/000/355/071/original/scissors-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://static.vecteezy.com/system/resources/previews/000/354/794/original/scissor-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://cdn2.iconfinder.com/data/icons/flaticons-solid/16/scissors-1-1024.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://static.vecteezy.com/system/resources/previews/003/808/404/original/scissors-icon-for-web-presentation-logo-infographic-haircut-tailor-hairdresser-haircut-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://thumbs.dreamstime.com/z/scissors-flat-icon-scissor-vector-illustration-96328802.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.svgrepo.com/show/68802/scissors.svg
+[Error]Invalid image, not saving https://www.svgrepo.com/show/68802/scissors.svg
+
+[!] Issue getting: https://www.svgrepo.com/show/68802/scissors.svg
+[!] Error:: Invalid image, not saving https://www.svgrepo.com/show/68802/scissors.svg
+
+[%] Downloading Image #31 from https://static.vecteezy.com/system/resources/previews/000/355/476/original/scissor-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://static.vecteezy.com/system/resources/previews/000/353/807/original/scissors-vector-icon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://clipground.com/images/cut-icon-clipart-9.png
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://helloartsy.com/wp-content/uploads/kids/school/how-to-draw-scissors/how-to-draw-scissors-step-6-1024x768.jpg
+[!] Issue getting: https://helloartsy.com/wp-content/uploads/kids/school/how-to-draw-scissors/how-to-draw-scissors-step-6-1024x768.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #34 from https://easydrawingguides.com/wp-content/uploads/2020/07/how-to-draw-a-scissors-featured-image-1200.png
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://helloartsy.com/wp-content/uploads/kids/school/scissors-drawing-easy/scissors-drawing-easy-step-6.jpg
+[!] Issue getting: https://helloartsy.com/wp-content/uploads/kids/school/scissors-drawing-easy/scissors-drawing-easy-step-6.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #35 from https://c8.alamy.com/comp/DN06W6/scissors-sketch-DN06W6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://thumbs.dreamstime.com/z/vector-sketch-scissors-kitchen-hand-draw-illustration-74287066.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from http://getdrawings.com/images/scissor-drawing-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i.pinimg.com/originals/70/11/50/701150ef640c4ab0c619e3dcac363012.png
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://thumbs.dreamstime.com/z/scissors-isolated-white-background-black-hand-draw-outline-back-to-school-office-vector-illustration-181502712.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://thumbnails.yayimages.com/1600/1/be8/1be800c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://thumbs.dreamstime.com/z/illustration-what-made-ink-pencil-paper-then-was-digitalized-scissors-drawing-engraving-line-art-vector-129665999.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://pixy.org/src/479/4794167.png
+[!] Issue getting: https://pixy.org/src/479/4794167.png
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+[%] Downloading Image #42 from http://sweetclipart.com/multisite/sweetclipart/files/scissors_simple_lineart.png
+[%] File Downloaded !
+
+[%] Downloading Image #43 from http://www.clipartbest.com/cliparts/9cp/L9x/9cpL9x9Mi.png
+[!] Issue getting: http://www.clipartbest.com/cliparts/9cp/L9x/9cpL9x9Mi.png
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #43 from http://getdrawings.com/image/scissors-drawing-63.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://free.clipartof.com/1230-Free-Clipart-Of-A-Pair-Of-Scissors.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://banner2.kisspng.com/20180318/ubq/kisspng-scissors-drawing-cartoon-clip-art-art-scissors-5aae2d0419e065.682818561521364228106.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://www.onlygfx.com/wp-content/uploads/2018/08/7-scissors-drawing-6.png
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://img.freepik.com/premium-vector/printable-cute-drawing-scissors-school-kids_213861-1148.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.clipartmax.com/png/middle/224-2243688_scissors-sewing-illustration-vintage-scissor-drawing.png
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.nicepng.com/png/detail/24-241170_scissors-drawing.png
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://free.clipartof.com/1702-Free-Clipart-Of-A-Pair-Of-Scissors.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

@@ -1,0 +1,177 @@
+[%] Downloading Images to d:\CPi\6th Sem\DA323 MMDP -II\Assignment cum project 1\Task 1\Part A\DomestiQ-1000\toaster images
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://i5.walmartimages.com/asr/011b270e-03a6-4a3d-8d73-069cc34c3d26.0460282e0068b9edefa4d5e1935d0600.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/4de20b8f-d7cc-4803-a107-435721433d41.jpg._CB315484577_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://c.shld.net/rpx/i/s/i/spin/-122/prod_1485509212??hei=64&amp;wid=64&amp;qlt=50
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://i5.walmartimages.com/asr/543cb126-9425-4ffd-bb72-7dbad866ceec_1.6c78838f41e3030859babe3454c803d1.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://i5.walmartimages.com/asr/b582cb03-81e6-4ddb-9a7b-18a1dc805575_1.d34b6595ccbaf22f8262b8731bb8080b.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://images-na.ssl-images-amazon.com/images/I/81%2Bx1a5oaeL._AC_SL1500_.jpg
+[!] Issue getting: https://images-na.ssl-images-amazon.com/images/I/81%2Bx1a5oaeL._AC_SL1500_.jpg
+[!] Error:: <urlopen error [Errno 11001] getaddrinfo failed>
+[%] Downloading Image #6 from https://www.mynavyexchange.com/products/images/xlarge/7759126_0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://i5.walmartimages.com/asr/9ed86338-92a6-46b1-8911-f16279de63cd.e8484e11cc4f41af167ff3baa469df7c.jpeg?odnWidth=1000&amp;odnHeight=1000&amp;odnBg=ffffff
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://images.heb.com/is/image/HEBGrocery/002275516
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://images-na.ssl-images-amazon.com/images/I/71O4h5JKVeL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from http://g-ecx.images-amazon.com/images/G/01/aplusautomation/vendorimages/95d1f5b0-3fdf-4f2a-af1e-635f36d6cc84._V322232318_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.mynavyexchange.com/products/images/xlarge/7231222_0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_835239312??hei=64&amp;wid=64&amp;qlt=50
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://foodsguy.com/wp-content/uploads/2022/02/Toaster-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.catchyfinds.com/content/images/2022/07/Haden-4-Slice-Toaster-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://kitchentoast.com/wp-content/uploads/2021/02/Color-Toaster.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://cdn.shopify.com/s/files/1/0347/0750/5285/products/dualit-canary-yellow-dualit-new-generation-4-slice-toaster-jl-hufford-toasters-ovens-3934822432877_1040x.jpg?v=1654195801
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i.pinimg.com/736x/31/ef/7d/31ef7d2fede8dc8c3b42e5f6e7d10c4d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://cookingtopgear.com/wp-content/uploads/2020/03/keenstone.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://m.media-amazon.com/images/I/71L2XUudnpL._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i5.walmartimages.com/asr/15f06376-b8c5-4e75-8092-e6175de473c8_2.54186f31cc34c1830053e206dd0efdca.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.thekitchentimes.com/wp-content/uploads/2017/01/red-toaster-extra-wide-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://cdn.shopify.com/s/files/1/0347/0750/5285/products/dualit-chilly-pink-dualit-new-generation-4-slice-toaster-in-fashion-colors-jl-hufford-toasters-ovens-3920900751469_1040x.jpg?v=1586252665
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://n.nordstrommedia.com/id/sr3/409fa6aa-3e21-4545-ab41-9c4fab1eca49.jpeg?crop=pad&amp;pad_color=FFF&amp;format=jpeg&amp;w=780&amp;h=1196
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://cookingindoor.com/wp-content/uploads/Best-colored-toasters.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://c.ndtvimg.com/2020-08/3ss8aop_largetoaster_625x300_20_August_20.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from http://ecx.images-amazon.com/images/I/41Po4XrK+9L._SX300_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://images-na.ssl-images-amazon.com/images/G/15/aplusautomation/vendorimages/92046e36-9efd-44cb-b6bb-7c648c0447a7.jpg._CB301389206_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.pinimg.com/originals/90/0e/1b/900e1bf16d02d2c23fcbae8346302173.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.catchyfinds.com/content/images/2022/07/Haden-4-Slice-Toaster-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://i.pinimg.com/originals/4e/7f/c2/4e7fc20f96d6036780ae9bb2d7e64389.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://images.homedepot-static.com/productImages/f36f3e0c-547f-426c-8ba1-0ceb497a5473/svn/canary-yellow-dualit-toasters-20298-64_1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://www.breville.co.uk/on/demandware.static/-/Sites-master-catalog/default/dw04d4d455/images/highres/VTT787-01-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters.jpg
+[Error]Invalid image, not saving https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters.jpg
+
+[!] Issue getting: https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters.jpg
+[!] Error:: Invalid image, not saving https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters.jpg
+
+[%] Downloading Image #33 from http://ligo.co.uk/cdn/shop/articles/Toaster-Ultimate-Guide.jpg?v=1699878077
+[!] Issue getting: http://ligo.co.uk/cdn/shop/articles/Toaster-Ultimate-Guide.jpg?v=1699878077
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #33 from https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters_3-1024x683.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://device.report/m/e33a391d2ecff546c6a9e414ae17e85ad076b1de45bd7581a1236c203f11fa34.png
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://article.images.consumerreports.org/image/upload/f_auto/prod/content/dam/CRO-Images-2021/Home/05May/CR-BG-toasters-features-airfry
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://images-na.ssl-images-amazon.com/images/I/71dm1o36f6L._AC_SL1500_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/19/12/toaster-buying-guide.jpg?width=1200&amp;auto=webp&amp;quality=75
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://techcrunch.com/wp-content/uploads/2020/11/Revolution-R180-Smart-Toaster-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.yourbestdigs.com/wp-content/uploads/2016/09/settings-and-buttons.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.reviewtique.com/wp-content/uploads/2017/09/Black-Decker-Black-4-Slice-Toaster.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from http://www.topbestproreview.com/wp-content/uploads/2020/11/1010.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://res.cloudinary.com/fairytales/image/upload/f_auto,q_auto/v1590610509/custom_images/126-5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://kitcheninfinity.com/wp-content/uploads/2022/03/4-Types-of-Toasters_1-1024x536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.catchyfinds.com/content/images/2022/07/SEEDEEM-2-Slice-Touchscreen-Toaster-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://cdn.everythingkitchens.com/media/catalog/product/cache/1e92cb92f6cdc27d285ff0da8b2b8583/k/a/ka-2slice-toaster-manual-lift-lever-contour-silver-kmt2115cu-compressed.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://topkitchenking.com/wp-content/uploads/2020/05/Nostalgia-RTOS200AQ-New-and-Improved-Retro-Wide-2-Slice-Toaster-Perfect-For-Bread-English-Muffins-Bagels-5-Browning-Levels-With-Crumb-Tray-Cord-Storage-–-Aqua-889x1024.jpg
+[!] Issue getting: https://topkitchenking.com/wp-content/uploads/2020/05/Nostalgia-RTOS200AQ-New-and-Improved-Retro-Wide-2-Slice-Toaster-Perfect-For-Bread-English-Muffins-Bagels-5-Browning-Levels-With-Crumb-Tray-Cord-Storage-–-Aqua-889x1024.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2013' in position 184: ordinal not in range(128)
+[%] Downloading Image #46 from https://www.catchyfinds.com/content/images/2022/07/37_Best-Small-Toaster-5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://m.media-amazon.com/images/I/410Ix2uEjYL.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://i.ytimg.com/vi/6_e44by8N8E/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://res.cloudinary.com/fairytales/image/upload/f_auto,q_auto/v1590610509/custom_images/126-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://awesomestuff365.com/wp-content/uploads/2018/03/Teapot-Toasters.jpg?x99993
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.
